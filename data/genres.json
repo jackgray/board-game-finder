@@ -1,0 +1,111 @@
+[
+    {
+      "_key": "1",
+      "_id": "genres/1",
+      "collection": "genres",
+      "name": "Abstract Strategy"
+    },
+    {
+      "_key": "2",
+      "_id": "genres/2",
+      "collection": "genres",
+      "name": "Adventure"
+    },
+    {
+      "_key": "3",
+      "_id": "genres/3",
+      "collection": "genres",
+      "name": "Bluffing"
+    },
+    {
+      "_key": "4",
+      "_id": "genres/4",
+      "collection": "genres",
+      "name": "Card Game"
+    },
+    {
+      "_key": "5",
+      "_id": "genres/5",
+      "collection": "genres",
+      "name": "Cooperative Game"
+    },
+    {
+      "_key": "6",
+      "_id": "genres/6",
+      "collection": "genres",
+      "name": "Deduction"
+    },
+    {
+      "_key": "7",
+      "_id": "genres/7",
+      "collection": "genres",
+      "name": "Economic"
+    },
+    {
+      "_key": "8",
+      "_id": "genres/8",
+      "collection": "genres",
+      "name": "Educational"
+    },
+    {
+      "_key": "9",
+      "_id": "genres/9",
+      "collection": "genres",
+      "name": "Fantasy"
+    },
+    {
+      "_key": "10",
+      "_id": "genres/10",
+      "collection": "genres",
+      "name": "Horror"
+    },
+    {
+      "_key": "11",
+      "_id": "genres/11",
+      "collection": "genres",
+      "name": "Party Game"
+    },
+    {
+      "_key": "12",
+      "_id": "genres/12",
+      "collection": "genres",
+      "name": "Role Playing"
+    },
+    {
+      "_key": "13",
+      "_id": "genres/13",
+      "collection": "genres",
+      "name": "Science Fiction"
+    },
+    {
+      "_key": "14",
+      "_id": "genres/14",
+      "collection": "genres",
+      "name": "Simulation"
+    },
+    {
+      "_key": "15",
+      "_id": "genres/15",
+      "collection": "genres",
+      "name": "Strategy"
+    },
+    {
+      "_key": "16",
+      "_id": "genres/16",
+      "collection": "genres",
+      "name": "Trivia"
+    },
+    {
+      "_key": "17",
+      "_id": "genres/17",
+      "collection": "genres",
+      "name": "Word Game"
+    },
+    {
+      "_key": "18",
+      "_id": "genres/18",
+      "collection": "genres",
+      "name": "Worker Placement"
+    }
+  ]
+  

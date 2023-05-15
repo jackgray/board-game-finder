@@ -1,0 +1,57 @@
+{
+  "_key": "azul",
+  "_id": "Games/azul",
+  "collection": "Games",
+  "name": "Azul",
+  "theme": "Tile laying",
+  "genres": [
+    {
+      "genre": "Abstract Strategy",
+      "percentage": "100%"
+    }
+  ],
+  "cost": "$40",
+  "premise": "Players are artisans decorating the walls of the Royal Palace of Evora with stunning tiles.",
+  "description": "Azul is a tile-placement game in which players take turns drafting colored tiles to their player board. Points are scored based on how they've placed their tiles to decorate the palace.",
+  "players": {
+    "possible": "2-4",
+    "recommended": "3-4"
+  },
+  "total_playtime": "30-45 minutes",
+  "number_of_sessions": "1",
+  "session_playtime": "30-45 minutes",
+  "session_playtime_notes": "Game length tends to be consistent.",
+  "mechanics": [
+    {
+      "name": "Tile Placement",
+      "percentage": "100%"
+    }
+  ],
+  "immersiveness_level": "Medium",
+  "immersiveness_level_notes": "The game's beautiful components and strategic depth provide a good level of engagement.",
+  "learning_curve": "Medium",
+  "learning_curve_notes": "The game is easy to learn but offers deep strategic decisions.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "Games are played in one session.",
+  "how_to_win": "Score the most points through strategic tile placement.",
+  "how_to_lose": "Having fewer points than the other players at the end of the game.",
+  "type_of_play": "Turn-based",
+  "similar_games": ["Sagrada", "Patchwork"],
+  "popularity": "High",
+  "expansions": ["Azul: Stained Glass of Sintra", "Azul: Summer Pavilion"],
+  "possible_campaigns": 0,
+  "personality_types": {
+    "planner": {
+      "reasons": ["Azul requires careful planning and foresight to win."]
+    }
+  },
+  "similar_video_games": ["Tetris"],
+  "unique_selling_point": "Azul combines simple rules with deep strategic gameplay and beautiful components.",
+  "category": "Abstract Strategy",
+  "min_age": "8",
+  "setup": {
+    "footprint": "Medium",
+    "time": "5 minutes",
+    "complexity": "Low"
+  }
+}

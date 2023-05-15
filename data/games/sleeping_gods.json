@@ -1,0 +1,84 @@
+{
+  "_key": "sleeping_gods",
+  "collection": "board_games",
+  "_id": "board_games/sleeping_gods",
+  "name": "Sleeping Gods",
+  "theme": "Fantasy adventure",
+  "category": "Narrative adventure",
+  "genres": [
+    { "genre": "Adventure", "percentage": "40%" },
+    { "genre": "Exploration", "percentage": "30%" },
+    { "genre": "Storytelling", "percentage": "20%" },
+    { "genre": "Cooperative", "percentage": "10%" }
+  ],
+  "cost": "$60",
+  "premise": "Embark on a voyage through a mystical world to wake ancient gods and uncover the secrets of a slumbering realm.",
+  "description": "Sleeping Gods is a narrative-driven adventure game set in a richly detailed world. Players take on the role of a shipwrecked crew exploring a vast and mysterious archipelago. Through immersive storytelling, they navigate the seas, encounter diverse characters, and engage in thrilling quests.",
+  "players": {
+    "possible": "1-4 players",
+    "recommended": "3-4 players"
+  },
+  "total_playtime": "10-20 hours",
+  "total_playtime_notes": "The game consists of a campaign with multiple interconnected sessions, each lasting several hours. The total playtime may vary based on player choices and exploration.",
+  "number_of_sessions": "Multiple",
+  "session_playtime": "3-4 hours",
+  "session_playtime_notes": "Each session is a self-contained chapter within the campaign, with an average playtime of 3-4 hours.",
+  "mechanics": [
+    { "name": "Story-driven", "percentage": "40%" },
+    { "name": "Adventure", "percentage": "30%" },
+    { "name": "Exploration", "percentage": "20%" },
+    { "name": "Deck building", "percentage": "10%" }
+  ],
+  "immersiveness_level": "High",
+  "immersiveness_level_notes": "Sleeping Gods offers a deeply immersive experience with its rich narrative, detailed world-building, and stunning artwork.",
+  "learning_curve": "Moderate",
+  "learning_curve_notes": "The game has moderate complexity, with rules that can be grasped after a few playthroughs and a tutorial-style introduction.",
+  "save_mechanism": "Campaign progress tracking system",
+  "save_mechanism_notes": "The game provides a mechanism for saving campaign progress between sessions, allowing players to continue their adventure at a later time.",
+  "how_to_win": "Players must complete various quests, make strategic decisions, and work together to awaken the sleeping gods and shape the destiny of the world.",
+  "how_to_lose": "The game can be lost if players fail to accomplish key objectives or if they exhaust their resources and options.",
+  "type_of_play": "Cooperative",
+  "similar_games": [
+    "Above and Below",
+    "Near and Far",
+    "7th Continent",
+    "Tainted Grail",
+    "Legacy of Dragonholt"
+  ],
+  "popularity": "High",
+  "expansions": ["Sleeping Gods: Tides of Ruin", "Sleeping Gods: Breakwater"],
+  "possible_campaigns": 2,
+  "personality_types": {
+    "adventurous": {
+      "reasons": [
+        "The game offers a vast and mysterious world to explore, perfect for adventurous players.",
+        "The immersive storytelling and quest-driven gameplay will captivate those who enjoy deep narrative experiences.",
+        "The cooperative nature of the game allows for shared decision-making and strategic collaboration.",
+        "With multiple possible outcomes and branching paths, the game offers high replayability for those who like to explore different storylines.",
+        "The deck-building mechanics add an extra layer of strategic depth, appealing to players who enjoy optimizing their resources."
+      ]
+    },
+    "setup": {
+      "footprint": "Medium",
+      "footprint_notes": "The game requires a moderate amount of table space to accommodate the game board, cards, and player components.",
+      "time": "15-30 minutes",
+      "time_notes": "Setting up the game typically takes around 15-30 minutes, depending on familiarity with the components.",
+      "complexity": "Moderate",
+      "complexity_notes": "The setup process involves arranging various components and decks, but the rules and components are well-organized and easy to understand."
+    },
+    "rule_complexity": "Moderate",
+    "rule_complexity_notes": "The game has a moderate level of complexity, with intuitive rules that can be easily understood with a bit of practice.",
+    "mastery_curve": "Gradual",
+    "mastery_curve_notes": "Players can gradually improve their understanding of the game's mechanics and develop strategies over repeated plays.",
+    "additional_notes": "Sleeping Gods offers a captivating adventure with its immersive storytelling, compelling choices, and beautifully illustrated world.",
+    "similar_video_games": [
+      "Pillars of Eternity",
+      "Divinity: Original Sin",
+      "The Witcher series",
+      "Baldur's Gate",
+      "Dragon Age: Inquisition"
+    ],
+    "unique_selling_point": "The interconnected narrative, open-world exploration, and engaging quests make Sleeping Gods a standout choice for fans of narrative-driven adventure games.",
+    "min_age": 12
+  }
+}

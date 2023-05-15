@@ -1,0 +1,71 @@
+{
+    "_key": "wavelength1",
+    "collection": "Party Games",
+    "_id": "Party Games/wavelength1",
+    "name": "Wavelength",
+    "theme": "Communication",
+    "genres": [
+      {
+        "genre": "Party",
+        "percentage": "100%"
+      }
+    ],
+    "cost": "$35",
+    "premise": "Teams try to read each other's minds by guessing where a target is located on a hidden spectrum.",
+    "description": "Wavelength is a social guessing game where two teams compete to read each other's minds. It’s a thrilling experience of TALKING and THINKING and HIGH FIVING that anyone can play.",
+    "players": {
+      "possible": "2-12",
+      "recommended": "6"
+    },
+    "total_playtime": "30-45 minutes",
+    "total_playtime_notes": "Playtime can vary depending on the number of players and rounds.",
+    "number_of_sessions": "N/A",
+    "session_playtime": "30-45 minutes",
+    "session_playtime_notes": "A single session typically lasts between 30 to 45 minutes.",
+    "mechanics": [
+      {
+        "name": "Team-Based",
+        "percentage": "100%"
+      }
+    ],
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "The game is more about interaction and less about theme immersion.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "The game is easy to learn and play, suitable for all types of players.",
+    "save_mechanism": "N/A",
+    "save_mechanism_notes": "Not applicable for this type of game.",
+    "how_to_win": "Score the most points by correctly guessing the location of the target on the spectrum.",
+    "how_to_lose": "Have fewer points than the other team at the end of the game.",
+    "type_of_play": "Cooperative, turn-based",
+    "similar_games": ["Codenames", "Just One"],
+    "popularity": "Medium",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "social": {
+        "reasons": ["The game involves a lot of communication and interaction.", "The game's fun factor relies on group dynamics."]
+      },
+      "casual": {
+        "reasons": ["The game is easy to learn and play.", "The game does not require intense strategizing."]
+      }
+    },
+    "setup": {
+      "footprint": "Small",
+      "footprint_notes": "Requires only the game box and enough space for all players to see the game board.",
+      "time": "5 minutes",
+      "time_notes": "Includes setting up the game board and dividing into teams.",
+      "complexity": "Low",
+      "complexity_notes": "Setup and rules are very straightforward."
+    },
+    "rule_complexity": "Low",
+    "rule_complexity_notes": "The game's rules are simple and easy to understand.",
+    "mastery_curve": "Moderate",
+    "mastery_curve_notes": "The game relies more on interpersonal understanding and less on strategic mastery.",
+    "additional_notes": "Wavelength is a great party game that emphasizes communication and understanding between players.",
+    "similar_video_games": [],
+    "unique_selling_point": "Unique mind-reading mechanic that emphasizes communication and understanding between players.",
+    "category": "Party",
+    "min_age": 14
+  }
+  
+  

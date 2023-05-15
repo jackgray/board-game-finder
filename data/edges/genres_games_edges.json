@@ -1,0 +1,201 @@
+[
+  {
+    "_key": "narrativeadventure_sleepinggods",
+    "_id": "games_genres_edges/narrativeadventure_sleepinggods",
+    "collection": "games_genres_edges",
+    "_from": "genres/narrativeadventure",
+    "_to": "games/sleepinggods"
+  },
+  {
+    "_key": "narrativeadventure_nearandfar",
+    "_id": "games_genres_edges/narrativeadventure_nearandfar",
+    "collection": "games_genres_edges",
+    "_from": "genres/narrativeadventure",
+    "_to": "games/nearandfar"
+  },
+  {
+    "_key": "narrativeadventure_stuffedfables",
+    "_id": "games_genres_edges/narrativeadventure_stuffedfables",
+    "collection": "games_genres_edges",
+    "_from": "genres/narrativeadventure",
+    "_to": "games/stuffedfables"
+  },
+  {
+    "_key": "narrativeadventure_familiartales",
+    "_id": "games_genres_edges/narrativeadventure_familiartales",
+    "collection": "games_genres_edges",
+    "_from": "genres/narrativeadventure",
+    "_to": "games/familiartales"
+  },
+  {
+    "_key": "deckbuilding_clank",
+    "_id": "games_genres_edges/deckbuilding_clank",
+    "collection": "games_genres_edges",
+    "_from": "genres/deckbuilding",
+    "_to": "games/clank"
+  },
+  {
+    "_key": "deckbuilding_dominion",
+    "_id": "games_genres_edges/deckbuilding_dominion",
+    "collection": "games_genres_edges",
+    "_from": "genres/deckbuilding",
+    "_to": "games/dominion"
+  },
+  {
+    "_key": "deckbuilding_aeonsend",
+    "_id": "games_genres_edges/deckbuilding_aeonsend",
+    "collection": "games_genres_edges",
+    "_from": "genres/deckbuilding",
+    "_to": "games/aeonsend"
+  },
+  {
+    "_key": "asymmetricstrategy_oathchroniclesofempireandexile",
+    "_id": "games_genres_edges/asymmetricstrategy_oathchroniclesofempireandexile",
+    "collection": "games_genres_edges",
+    "_from": "genres/asymmetricstrategy",
+    "_to": "games/oathchroniclesofempireandexile"
+  },
+
+  {
+    "_key": "asymmetricstrategy_root",
+    "_id": "games_genres_edges/asymmetricstrategy_root",
+    "collection": "games_genres_edges",
+    "_from": "genres/asymmetricstrategy",
+    "_to": "games/root"
+  },
+  {
+    "_key": "asymmetricstrategy_vastthecrystalcaverns",
+    "_id": "games_genres_edges/asymmetricstrategy_vastthecrystalcaverns",
+    "collection": "games_genres_edges",
+    "_from": "genres/asymmetricstrategy",
+    "_to": "games/vastthecrystalcaverns"
+  },
+  {
+    "_key": "asymmetricstrategy_scythe",
+    "_id": "games_genres_edges/asymmetricstrategy_scythe",
+    "collection": "games_genres_edges",
+    "_from": "genres/asymmetricstrategy",
+    "_to": "games/scythe"
+  },
+  {
+    "_key": "asymmetricstrategy_twilightimperium",
+    "_id": "games_genres_edges/asymmetricstrategy_twilightimperium",
+    "collection": "games_genres_edges",
+    "_from": "genres/asymmetricstrategy",
+    "_to": "games/twilightimperium"
+  },
+  {
+    "_key": "asymmetricstrategy_spiritisland",
+    "_id": "games_genres_edges/asymmetricstrategy_spiritisland",
+    "collection": "games_genres_edges",
+    "_from": "genres/asymmetricstrategy",
+    "_to": "games/spiritisland"
+  },
+  {
+    "_key": "roleplaying_dungeonsanddragons",
+    "_id": "games_genres_edges/roleplaying_dungeonsanddragons",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/dungeonsanddragons"
+  },
+
+  {
+    "_key": "roleplaying_shadowrun",
+    "_id": "games_genres_edges/roleplaying_shadowrun",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/shadowrun"
+  },
+  {
+    "_key": "roleplaying_pathfinderadventurecardgame",
+    "_id": "games_genres_edges/roleplaying_pathfinderadventurecardgame",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/pathfinderadventurecardgame"
+  },
+  {
+    "_key": "roleplaying_callofcthulhuthecardgame",
+    "_id": "games_genres_edges/roleplaying_callofcthulhuthecardgame",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/callofcthulhuthecardgame"
+  },
+  {
+    "_key": "roleplaying_starwarsedgeoftheempire",
+    "_id": "games_genres_edges/roleplaying_starwarsedgeoftheempire",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/starwarsedgeoftheempire"
+  },
+  {
+    "_key": "roleplaying_warhammerfantasyroleplay",
+    "_id": "games_genres_edges/roleplaying_warhammerfantasyroleplay",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/warhammerfantasyroleplay"
+  },
+  {
+    "_key": "roleplaying_cyberpunk2020",
+    "_id": "games_genres_edges/roleplaying_cyberpunk2020",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/cyberpunk2020"
+  },
+  {
+    "_key": "roleplaying_vampirethemasquerade",
+    "_id": "games_genres_edges/roleplaying_vampirethemasquerade",
+    "collection": "games_genres_edges",
+    "_from": "genres/roleplaying",
+    "_to": "games/vampirethemasquerade"
+  },
+  {
+    "_key": "exploration_aboveandbelow",
+    "_id": "games_genres_edges/exploration_aboveandbelow",
+    "collection": "games_genres_edges",
+    "_from": "genres/exploration",
+    "_to": "games/aboveandbelow"
+  },
+  {
+    "_key": "exploration_nearandfar",
+    "_id": "games_genres_edges/exploration_nearandfar",
+    "collection": "games_genres_edges",
+    "_from": "genres/exploration",
+    "_to": "games/nearandfar"
+  },
+  {
+    "_key": "exploration_the7thcontinent",
+    "_id": "games_genres_edges/exploration_the7thcontinent",
+    "collection": "games_genres_edges",
+    "_from": "genres/exploration",
+    "_to": "games/the7thcontinent"
+  },
+  {
+    "_key": "exploration_runebound",
+    "_id": "games_genres_edges/exploration_runebound",
+    "collection": "games_genres_edges",
+    "_from": "genres/exploration",
+    "_to": "games/runebound"
+  },
+  {
+    "_key": "survival_aftermath",
+    "_id": "games_genres_edges/survival_aftermath",
+    "collection": "games_genres_edges",
+    "_from": "genres/survival",
+    "_to": "games/aftermath"
+  },
+  {
+    "_key": "survival_thiswarofminetheboardgame",
+    "_id": "games_genres_edges/survival_thiswarofminetheboardgame",
+    "collection": "games_genres_edges",
+    "_from": "genres/survival",
+    "_to": "games/thiswarofminetheboardgame"
+  },
+
+  {
+    "_key": "deckbuilding_lostruinsofarnak",
+    "_id": "games_genres_edges/deckbuilding_lostruinsofarnak",
+    "collection": "games_genres_edges",
+    "_from": "genres/deckbuilding",
+    "_to": "games/lostruinsofarnak"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "_key": "twilight_imperium",
+  "collection": "board_games",
+  "_id": "board_games/twilight_imperium",
+  "name": "Twilight Imperium",
+  "theme": "Epic Space Opera",
+  "category": "Strategy",
+  "genres": [
+    { "genre": "Strategy", "percentage": "60%" },
+    { "genre": "Sci-Fi", "percentage": "40%" },
+    { "genre": "Political", "percentage": "20%" },
+    { "genre": "Diplomacy", "percentage": "15%" },
+    { "genre": "Negotiation", "percentage": "10%" },
+    { "genre": "Conflict", "percentage": "30%" }
+  ],
+  "cost": "$100",
+  "premise": "Take control of one of the galaxy's ancient civilizations, seeking to secure the throne of Mecatol Rex and become the ruler of the galaxy.",
+  "description": "Twilight Imperium is an epic board game of galactic conquest, political intrigue, and strategic warfare. Players take on the roles of powerful leaders representing various factions in a vast space opera. They must navigate through diplomacy, trade, and warfare to gain control over star systems, gather resources, and ultimately dominate the galaxy. With its richly detailed components and deep gameplay mechanics, Twilight Imperium offers a truly immersive and strategic experience for seasoned board gamers.",
+  "players": {
+    "possible": "3-6",
+    "recommended": "4-6"
+  },
+  "total_playtime": "6-8 hours",
+  "total_playtime_notes": "Game length may vary based on the number of players and their experience with the game.",
+  "number_of_sessions": "1",
+  "session_playtime": "6-8 hours",
+  "session_playtime_notes": "A full game of Twilight Imperium is typically played in a single session.",
+  "mechanics": [
+    { "name": "Area Control", "percentage": "40%" },
+    { "name": "Variable Player Powers", "percentage": "30%" },
+    { "name": "Tech Tree", "percentage": "25%" },
+    { "name": "Action Point Allowance", "percentage": "20%" },
+    { "name": "Hand Management", "percentage": "15%" },
+    { "name": "Dice Rolling", "percentage": "10%" },
+    { "name": "Negotiation", "percentage": "30%" },
+    { "name": "Resource Management", "percentage": "20%" },
+    { "name": "Role Playing", "percentage": "5%" }
+  ],
+  "immersiveness_level": "High",
+  "immersiveness_level_notes": "The game offers a rich and immersive experience with its detailed components and expansive narrative universe.",
+  "learning_curve": "High",
+  "learning_curve_notes": "Twilight Imperium has complex rules and mechanics that may require multiple playthroughs to fully grasp.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "Twilight Imperium is typically played in a single session and does not have a built-in save mechanism.",
+  "how_to_win": "To win, players must accumulate victory points through various means, such as controlling planets, winning space battles, completing objectives, and forging alliances.",
+  "how_to_lose": "Players can lose by running out of resources, losing control of their home systems, or failing to achieve the required victory points before other players.",
+  "type_of_play": "Competitive",
+  "similar_games": [
+    "Eclipse",
+    "Space Empires 4X",
+    "Scythe",
+    "Star Wars: Rebellion",
+    "Rex: Final Days of an Empire"
+  ],
+  "popularity": "High",
+  "expansions": [
+    "Twilight Imperium: Shattered Empire",
+    "Twilight Imperium: Shards of the Throne",
+    "Twilight Imperium: Prophecy of Kings"
+  ],
+  "possible_campaigns": 3,
+  "personality_types": {
+    "strategist": {
+      "reasons": [
+        "The deep strategic gameplay mechanics provide ample opportunities for tactical planning and long-term strategy.",
+        "The ability to negotiate and form alliances allows for intricate diplomatic maneuvers."
+      ]
+    },
+    "storyteller": {
+      "reasons": [
+        "The immersive space opera theme and detailed narrative elements offer a captivating storytelling experience.",
+        "The epic scale of the game allows for memorable narrative moments and player-driven stories."
+      ]
+    },
+    "tactician": {
+      "reasons": [
+        "The game's focus on area control and combat provides a challenging tactical environment.",
+        "The variety of factions and asymmetrical powers offer strategic depth and decision-making opportunities."
+      ]
+    }
+  },
+  "setup": {
+    "footprint": "Large",
+    "footprint_notes": "The game requires a significant amount of table space due to its expansive board and components.",
+    "time": "30 minutes",
+    "time_notes": "The setup time may vary based on the familiarity of the players with the game components.",
+    "complexity": "High",
+    "complexity_notes": "The setup involves multiple components, including the game board, player pieces, cards, and tokens."
+  },
+  "rule_complexity": "High",
+  "rule_complexity_notes": "Twilight Imperium has a complex rulebook with numerous rules and exceptions that require careful understanding and interpretation.",
+  "mastery_curve": "High",
+  "mastery_curve_notes": "Becoming proficient in Twilight Imperium requires multiple playthroughs and a deep understanding of the game's mechanics.",
+  "additional_notes": "Twilight Imperium is known for its epic play sessions, deep strategy, and player-driven narratives. It offers a grand experience for enthusiasts of space-themed strategy games.",
+  "similar_video_games": [
+    "Sid Meier's Civilization",
+    "Endless Legend",
+    "Stellaris",
+    "Sins of a Solar Empire",
+    "Master of Orion"
+  ],
+  "unique_selling_point": "Twilight Imperium stands out with its massive scope, complex mechanics, and deep player interactions, providing an unforgettable experience of galactic conquest and diplomacy.",
+  "min_age": 14
+}

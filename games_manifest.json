@@ -1,0 +1,98 @@
+[
+  {
+    "narrative_adventure_games": [
+      "Sleeping Gods",
+      "Near and Far",
+      "Stuffed Fables",
+      "Familiar Tales",
+      "Forgotten Waters",
+      "Mice and Mystics",
+      "Tainted Grail",
+      "7th Continent",
+      "Gloomhaven",
+      "Pandemic Legacy",
+      "Betrayal Legacy"
+    ]
+  },
+  {
+    "deck_building_games": [
+      "Lost Ruins of Arnak",
+      "Clank!",
+      "Dominion",
+      "Aeon's End"
+    ]
+  },
+  {
+    "asymmetric_strategy_games": [
+      "Oath: Chronicles of Empire and Exile",
+      "Root",
+      "Vast: The Crystal Caverns",
+      "Scythe",
+      "Twilight Imperium",
+      "Spirit Island"
+    ]
+  },
+  {
+    "role-playing_games": [
+      "Dungeons & Dragons",
+      "Shadowrun",
+      "Pathfinder Adventure Card Game",
+      "Call of Cthulhu: The Card Game",
+      "Gloomhaven",
+      "Star Wars: Edge of the Empire",
+      "Warhammer Fantasy Roleplay",
+      "Cyberpunk 2020",
+      "Vampire: The Masquerade"
+    ]
+  },
+  {
+    "exploration_games": [
+      "Above and Below",
+      "Near and Far",
+      "The 7th Continent",
+      "Runebound"
+    ]
+  },
+  {
+    "survival_games": [
+      "Aftermath",
+      "This War of Mine: The Board Game",
+      "Dead of Winter",
+      "The Grizzled"
+    ]
+  },
+  {
+    "strategy_games": [
+      "7 Wonders",
+      "Settlers of Catan",
+      "Ticket to Ride",
+      "Carcassonne",
+      "Puerto Rico",
+      "Agricola"
+    ]
+  },
+  {
+    "city_building_games": [
+      "7 Wonders",
+      "Settlers of Catan",
+      "Suburbia",
+      "Quadropolis",
+      "Machi Koro"
+    ]
+  },
+  {
+    "two_player_games": [
+      "Lost Cities",
+      "Hive",
+      "Star Realms",
+      "Twilight Struggle",
+      "Patchwork",
+      "Jaipur",
+      "Codenames: Duet",
+      "7 Wonders Duel",
+      "The Fox in the Forest",
+      "Raptor"
+    ]
+  }
+  
+]

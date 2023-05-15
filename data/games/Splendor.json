@@ -1,0 +1,79 @@
+{
+  "_key": "splendor1",
+  "collection": "Strategy Games",
+  "_id": "StrategyGames_splendor1",
+  "name": "Splendor",
+  "theme": "Renaissance Merchants",
+  "genres": [
+    {
+      "genre": "Economic",
+      "percentage": "100%"
+    }
+  ],
+  "cost": "$40",
+  "premise": "Players are merchants of the Renaissance trying to buy gem mines, transportation methods, and shops to acquire the most prestige points.",
+  "description": "In Splendor, you lead a merchant guild. Using tokens representing gemstones, you will acquire developments which produce new gems (bonuses). These bonuses reduce the cost of your purchases and attract noble patrons.",
+  "players": {
+    "possible": "2-4",
+    "recommended": "4"
+  },
+  "total_playtime": "30 minutes",
+  "total_playtime_notes": "Playtime can vary slightly depending on the number of players.",
+  "number_of_sessions": "N/A",
+  "session_playtime": "30 minutes",
+  "session_playtime_notes": "A single session typically lasts about 30 minutes.",
+  "mechanics": [
+    {
+      "name": "Card Drafting",
+      "percentage": "50%"
+    },
+    {
+      "name": "Set Collection",
+      "percentage": "50%"
+    }
+  ],
+  "immersiveness_level": "Low",
+  "immersiveness_level_notes": "The focus of the game is more on mechanics rather than narrative or theme immersion.",
+  "learning_curve": "Low",
+  "learning_curve_notes": "The game is easy to learn, making it a great entry point for people new to board games.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "Not applicable for this type of game.",
+  "how_to_win": "The player with the highest number of prestige points wins the game.",
+  "how_to_lose": "Have fewer prestige points than the other players at the end of the game.",
+  "type_of_play": "Competitive",
+  "similar_games": ["Century: Spice Road", "Ticket to Ride"],
+  "popularity": "High",
+  "expansions": ["Splendor: Cities of Splendor"],
+  "possible_campaigns": 0,
+  "personality_types": {
+    "competitive": {
+      "reasons": [
+        "The game involves direct competition with other players.",
+        "The game rewards strategic planning and resource management."
+      ]
+    },
+    "analytical": {
+      "reasons": [
+        "The game involves strategic decision making.",
+        "There's a satisfaction in optimizing your moves and resources."
+      ]
+    }
+  },
+  "setup": {
+    "footprint": "Medium",
+    "footprint_notes": "Requires some table space for cards and tokens, but not overly demanding.",
+    "time": "5 minutes",
+    "time_notes": "Includes shuffling the cards and distributing tokens.",
+    "complexity": "Low",
+    "complexity_notes": "Setup is straightforward and takes little time."
+  },
+  "rule_complexity": "Low",
+  "rule_complexity_notes": "Rules are easy to learn and teach.",
+  "mastery_curve": "Moderate",
+  "mastery_curve_notes": "While the game is easy to learn, it requires strategic planning to master.",
+  "additional_notes": "Splendor is a great gateway game for those new to the hobby of board gaming.",
+  "similar_video_games": [],
+  "unique_selling_point": "Unique mechanic of purchasing cards to gain resources, which in turn help purchase further cards.",
+  "category": "Economic",
+  "min_age": 10
+}

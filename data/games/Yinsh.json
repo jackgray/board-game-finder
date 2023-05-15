@@ -1,0 +1,59 @@
+{
+  "_key": "yinsh",
+  "_id": "Games/yinsh",
+  "collection": "Games",
+  "name": "Yinsh",
+  "theme": "Abstract",
+  "genres": [
+    {
+      "genre": "Abstract Strategy",
+      "percentage": "100%"
+    }
+  ],
+  "cost": "$35",
+  "premise": "Players compete to form lines of five markers of their own color.",
+  "description": "YINSH is a game of abstract strategy from the GIPF project. Players alternate turns placing rings on the board and moving them to leave markers behind.",
+  "players": {
+    "possible": "2",
+    "recommended": "2"
+  },
+  "total_playtime": "30 minutes",
+  "number_of_sessions": "1",
+  "session_playtime": "30 minutes",
+  "session_playtime_notes": "Game length is consistent.",
+  "mechanics": [
+    {
+      "name": "Grid Movement",
+      "percentage": "100%"
+    }
+  ],
+  "immersiveness_level": "Medium",
+  "immersiveness_level_notes": "The game's strategic depth can be highly engaging.",
+  "learning_curve": "Medium",
+  "learning_curve_notes": "The rules are easy to learn, but there are many strategic possibilities.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "Games are usually played in one session.",
+  "how_to_win": "Be the first to form five lines of five markers of your own color.",
+  "how_to_lose": "Failing to form the necessary lines before your opponent.",
+  "type_of_play": "Turn-based",
+  "similar_games": ["Dvonn", "Zertz"],
+  "popularity": "Medium",
+  "expansions": [],
+  "possible_campaigns": 0,
+  "personality_types": {
+    "strategist": {
+      "reasons": ["Yinsh is a strategic game that requires careful planning."]
+    }
+  },
+  "similar_video_games": ["Othello"],
+  "unique_selling_point": "Yinsh's simplicity and depth of strategy make it stand out among abstract strategy games.",
+  "category": "Abstract Strategy",
+  "min_age": "10",
+  "setup": {
+    "footprint": "Medium",
+    "time": "2 minutes",
+    "complexity": "Low"
+  },
+  "rule_complexity": 1.5,
+  "mastery_curve": 4.5
+}

@@ -1,0 +1,86 @@
+{
+    "_key": "splendor_duel",
+    "collection": "board_games",
+    "_id": "board_games/splendor_duel",
+    "name": "Splendor Duel",
+    "theme": "Medieval merchant trade",
+    "category": "Economic, Two-player",
+    "genres": [
+      {
+        "genre": "Strategy",
+        "percentage": "60%"
+      },
+      {
+        "genre": "Card Drafting",
+        "percentage": "30%"
+      },
+      {
+        "genre": "Set Collection",
+        "percentage": "10%"
+      }
+    ],
+    "cost": "$35",
+    "premise": "Players are merchants trying to buy gem mines, transportation methods, and shops to earn the most prestige points.",
+    "description": "Splendor Duel is a strategy game where players use their resources to buy mines, and transportation methods, all in the form of cards. Each round, players take turns choosing to pick new gem tokens, buying a card, or reserving a card. The player who reaches 15 prestige points wins.",
+    "players": {
+      "possible": "2",
+      "recommended": "2"
+    },
+    "total_playtime": "30 minutes",
+    "total_playtime_notes": "",
+    "number_of_sessions": "1",
+    "session_playtime": "30 minutes",
+    "session_playtime_notes": "",
+    "mechanics": [
+      {
+        "name": "Card Drafting",
+        "percentage": "60%"
+      },
+      {
+        "name": "Set Collection",
+        "percentage": "30%"
+      },
+      {
+        "name": "Hand Management",
+        "percentage": "10%"
+      }
+    ],
+    "immersiveness_level": "Medium",
+    "immersiveness_level_notes": "",
+    "learning_curve": "Easy",
+    "learning_curve_notes": "",
+    "save_mechanism": "Not Applicable",
+    "save_mechanism_notes": "",
+    "how_to_win": "First to reach 15 prestige points",
+    "how_to_lose": "Have fewer prestige points when another player reaches 15",
+    "type_of_play": "Turn-based",
+    "similar_games": ["Century: Spice Road", "Azul"],
+    "popularity": "Popular",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Competitive": {
+        "reasons": ["Game is highly competitive, with players directly vying for limited resources."]
+      },
+      "Strategist": {
+        "reasons": ["Game requires careful planning and strategic thinking to win."]
+      }
+    },
+    "setup": {
+      "footprint": "Small",
+      "footprint_notes": "",
+      "time": "5 minutes",
+      "time_notes": "",
+      "complexity": "Low",
+      "complexity_notes": ""
+    },
+    "rule_complexity": "Low",
+    "rule_complexity_notes": "",
+    "mastery_curve": "Medium",
+    "mastery_curve_notes": "",
+    "additional_notes": "",
+    "similar_video_games": ["Hearthstone"],
+    "unique_selling_point": "Tense, strategic gameplay in a compact form factor.",
+    "min_age": 10
+  }
+  

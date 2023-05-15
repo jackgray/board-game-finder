@@ -1,0 +1,61 @@
+{
+  "_key": "go",
+  "_id": "Games/go",
+  "collection": "Games",
+  "name": "Go",
+  "theme": "Ancient warfare",
+  "genres": [
+    {
+      "genre": "Abstract Strategy",
+      "percentage": "100%"
+    }
+  ],
+  "cost": "$50",
+  "premise": "Two players compete to control the most territory on the game board.",
+  "description": "Go is a two-player game where the aim is to surround more territory than your opponent, a game of strategy that originated in China more than 2,500 years ago.",
+  "players": {
+    "possible": "2",
+    "recommended": "2"
+  },
+  "total_playtime": "Varies",
+  "number_of_sessions": "1",
+  "session_playtime": "Varies",
+  "session_playtime_notes": "Game duration can vary greatly depending on the players' level of skill and the size of the game board.",
+  "mechanics": [
+    {
+      "name": "Area Majority / Influence",
+      "percentage": "100%"
+    }
+  ],
+  "immersiveness_level": "High",
+  "immersiveness_level_notes": "The strategic depth and simplicity of the rules can create a highly engaging experience.",
+  "learning_curve": "High",
+  "learning_curve_notes": "The rules are simple, but the game has deep strategic complexity.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "Games are usually played in one session.",
+  "how_to_win": "Control more territory on the board than your opponent.",
+  "how_to_lose": "Having less territory than your opponent at the end of the game.",
+  "type_of_play": "Turn-based",
+  "similar_games": ["Chess", "Shogi"],
+  "popularity": "High",
+  "expansions": [],
+  "possible_campaigns": 0,
+  "personality_types": {
+    "strategist": {
+      "reasons": [
+        "Go is a deeply strategic game with simple rules but complex gameplay."
+      ]
+    }
+  },
+  "similar_video_games": ["Go (Video Game)"],
+  "unique_selling_point": "Go's depth of strategy and simplicity of rules have allowed it to remain popular for thousands of years.",
+  "category": "Abstract Strategy",
+  "min_age": "8",
+  "setup": {
+    "footprint": "Small",
+    "time": "1 minute",
+    "complexity": "Low"
+  },
+  "rule_complexity": 1.0,
+  "mastery_curve": 5.0
+}

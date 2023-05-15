@@ -1,0 +1,26 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://example.com/game-genres-schema.json",
+    "title": "Game Genres Schema",
+    "type": "object",
+    "properties": {
+      "_key": {
+        "type": "string",
+        "description": "The unique identifier for the game genre."
+      },
+      "_id": {
+        "type": "string",
+        "description": "The ID of the game genre, which is a combination of the collection and the _key, separated by '/'."
+      },
+      "collection": {
+        "type": "string",
+        "description": "The collection to which the genre belongs."
+      },
+      "genre": {
+        "type": "string",
+        "description": "The name of the genre."
+      }
+    },
+    "required": ["_key", "_id", "collection", "genre"]
+  }
+  

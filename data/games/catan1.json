@@ -1,0 +1,79 @@
+{
+    "_key": "catan1",
+    "collection": "Strategy Games",
+    "_id": "StrategyGames_catan1",
+    "name": "Settlers of Catan",
+    "theme": "Settlement Building",
+    "genres": [
+      {
+        "genre": "Strategy",
+        "percentage": "100%"
+      }
+    ],
+    "cost": "$49",
+    "premise": "Players represent settlers establishing colonies on the island of Catan, with the goal to settle the island as efficiently as possible.",
+    "description": "Players build and improve settlements and cities, while trading and acquiring resources, aiming to gain the most victory points.",
+    "players": {
+      "possible": "3-4",
+      "recommended": "4"
+    },
+    "total_playtime": "60-120 minutes",
+    "total_playtime_notes": "Playtime can vary depending on the players' familiarity with the game.",
+    "number_of_sessions": "N/A",
+    "session_playtime": "60-120 minutes",
+    "session_playtime_notes": "Each game is a standalone session.",
+    "mechanics": [
+      {
+        "name": "Trading",
+        "percentage": "40%"
+      },
+      {
+        "name": "Hexagon Grid",
+        "percentage": "30%"
+      },
+      {
+        "name": "Route/Network Building",
+        "percentage": "30%"
+      }
+    ],
+    "immersiveness_level": "Medium",
+    "immersiveness_level_notes": "Players can engage with the theme through the process of building and expanding settlements.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "Catan is often used as a gateway game into the hobby, indicating its ease of learning.",
+    "save_mechanism": "N/A",
+    "save_mechanism_notes": "Not applicable for this type of game.",
+    "how_to_win": "The first player to reach 10 victory points wins.",
+    "how_to_lose": "Have fewer than 10 victory points when another player reaches this score.",
+    "type_of_play": "Competitive",
+    "similar_games": ["Carcassonne", "Ticket to Ride"],
+    "popularity": "High",
+    "expansions": ["Catan: Seafarers", "Catan: Cities & Knights", "Catan: Traders & Barbarians"],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "competitive": {
+        "reasons": ["The game involves direct competition with other players through resource management and strategy."]
+      },
+      "social": {
+        "reasons": ["Trading resources with other players forms a key part of the game."]
+      }
+    },
+    "setup": {
+        "footprint": "Medium",
+        "footprint_notes": "The game requires a medium-sized table for the game board and player components.",
+        "time": "10 minutes",
+        "time_notes": "Setup includes shuffling hexagonal tiles and arranging them to form the game board.",
+        "complexity": "Low",
+        "complexity_notes": "Setup involves placing hexagonal tiles and number tokens according to the game rules."
+      },
+      "rule_complexity": "Medium",
+      "rule_complexity_notes": "While the basic rules are simple, strategic complexity arises from player interaction and the variable game board.",
+      "mastery_curve": "Medium",
+      "mastery_curve_notes": "The game is easy to learn but offers depth in strategy and player interaction.",
+      "additional_notes": "Settlers of Catan is widely credited with launching the modern board game movement.",
+      "similar_video_games": [],
+      "unique_selling_point": "Unique blend of strategy, luck, and player negotiation.",
+      "category": "Strategy",
+      "min_age": 10
+    }
+    
+  

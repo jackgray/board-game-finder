@@ -1,0 +1,110 @@
+{
+  "_key": "wingspan",
+  "_id": "Games/wingspan",
+  "collection": "Games",
+  "name": "Wingspan",
+  "theme": "Birds and wildlife",
+  "genres": [
+    {
+      "genre": "Strategy",
+      "percentage": "70%"
+    },
+    {
+      "genre": "Card Game",
+      "percentage": "30%"
+    }
+  ],
+  "cost": "$60",
+  "premise": "Players are bird enthusiasts who seek to discover and attract the best birds to their network of wildlife preserves.",
+  "description": "Wingspan is a competitive, medium-weight, card-driven, engine-building board game. Each bird extends a chain of powerful combinations in one of your habitats (actions).",
+  "players": {
+    "possible": "1-5",
+    "recommended": "3-4"
+  },
+  "total_playtime": "40-70 minutes",
+  "number_of_sessions": "1",
+  "session_playtime": "40-70 minutes",
+  "session_playtime_notes": "Game duration can vary based on player count and strategy.",
+  "mechanics": [
+    {
+      "name": "Hand Management",
+      "percentage": "40%"
+    },
+    {
+      "name": "Dice Rolling",
+      "percentage": "20%"
+    },
+    {
+      "name": "Set Collection",
+      "percentage": "40%"
+    }
+  ],
+  "immersiveness_level": "High",
+  "immersiveness_level_notes": "The game's artwork and components contribute to its immersive qualities.",
+  "learning_curve": "Medium",
+  "learning_curve_notes": "Gameplay is easy to understand, but strategy can take time to master.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "The game is typically played in one session.",
+  "how_to_win": "The player with the most points at the end of the game wins.",
+  "how_to_lose": "Players can't lose per se, but they can end up with fewer points than their opponents.",
+  "type_of_play": "Turn-based",
+  "similar_games": ["Terraforming Mars", "Everdell"],
+  "popularity": "Very High",
+  "expansions": ["European Expansion", "Oceania Expansion"],
+  "possible_campaigns": 0,
+  "personality_types": [
+    {
+      "_id": "PersonalityTypes/artist",
+      "percentage_distribution": "20%",
+      "reasons": [
+        "Wingspan's beautifully illustrated bird cards and the gorgeous components could greatly appeal to those with an artistic inclination.",
+        "The game's thematic integration, involving attracting various species of birds to habitats, might resonate with individuals who appreciate creativity and imagination."
+      ],
+      "associated_attributes": [
+        "Creative",
+        "Imaginative",
+        "Expressive",
+        "Original"
+      ]
+    },
+    {
+      "_id": "PersonalityTypes/engineer",
+      "percentage_distribution": "30%",
+      "reasons": [
+        "The game's strategic element, involving managing resources and planning ahead to maximize points, could appeal to those with a problem-solving mindset.",
+        "Its engine-building mechanics, where each bird card you play can chain with existing cards for better effects, can be engaging for individuals who enjoy understanding and implementing efficient solutions."
+      ],
+      "associated_attributes": [
+        "Logical",
+        "Practical",
+        "Problem-solver",
+        "Analytical"
+      ]
+    },
+    {
+      "_id": "PersonalityTypes/INFJ",
+      "percentage_distribution": "10%",
+      "reasons": [
+        "The peaceful and cooperative nature of Wingspan might appeal to INFJs who prefer non-confrontational games and enjoy contributing to a shared goal.",
+        "The theme of preserving and attracting various bird species to habitats could resonate with INFJs' altruistic and idealistic nature."
+      ],
+      "associated_attributes": [
+        "Introverted",
+        "Intuitive",
+        "Feeling",
+        "Judging",
+        "Idealistic",
+        "Altruistic"
+      ]
+    }
+  ],
+  "similar_video_games": ["Wingspan Digital Edition"],
+  "unique_selling_point": "Wingspan's unique bird theme and gorgeous components make it stand out from other engine-building games.",
+  "category": "Strategy",
+  "min_age": "10",
+  "setup": {
+    "footprint": "Large",
+    "time": "10-15 minutes",
+    "complexity": "Medium"
+  }
+}

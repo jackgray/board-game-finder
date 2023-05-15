@@ -1,0 +1,126 @@
+{
+  "_key": "hero_quest",
+  "collection": "Board Games",
+  "_id": "Board Games/hero_quest",
+  "name": "Hero Quest",
+  "theme": "Fantasy Adventure",
+  "category": "Adventure, Exploration",
+  "genres": [
+    {
+      "genre": "Adventure",
+      "percentage": "70%"
+    },
+    {
+      "genre": "Strategy",
+      "percentage": "20%"
+    },
+    {
+      "genre": "Role-Playing",
+      "percentage": "10%"
+    }
+  ],
+  "cost": "$70",
+  "premise": "Heroes must explore and conquer the dangerous dungeons, filled with monsters and treasures.",
+  "description": "Hero Quest is a classic board game that combines elements of role-playing games with a straightforward, board-based dungeon crawl.",
+  "players": {
+    "possible": "2-5",
+    "recommended": "4"
+  },
+  "total_playtime": "90 mins",
+  "total_playtime_notes": "Can vary based on the number of players and their familiarity with the game.",
+  "number_of_sessions": "20",
+  "session_playtime": "60-90 mins",
+  "session_playtime_notes": "Each quest is designed to be played in a single session.",
+  "mechanics": [
+    {
+      "name": "Grid Movement",
+      "percentage": "30%"
+    },
+    {
+      "name": "Dice Rolling",
+      "percentage": "30%"
+    },
+    {
+      "name": "Variable Player Powers",
+      "percentage": "20%"
+    },
+    {
+      "name": "Cooperative Game",
+      "percentage": "20%"
+    }
+  ],
+  "immersiveness_level": "High",
+  "immersiveness_level_notes": "The theme and mechanics make players feel like they are part of a fantasy world.",
+  "learning_curve": "Medium",
+  "learning_curve_notes": "The game is easy to pick up but offers depth through its various mechanics.",
+  "save_mechanism": "None",
+  "save_mechanism_notes": "Each session is a standalone game.",
+  "how_to_win": "Complete the quest's objective before all heroes are defeated.",
+  "how_to_lose": "All heroes are defeated before the quest's objective is completed.",
+  "type_of_play": "Cooperative",
+  "similar_games": [
+    "Descent: Journeys in the Dark",
+    "Dungeons & Dragons",
+    "Gloomhaven"
+  ],
+  "popularity": "High",
+  "expansions": ["Kellar's Keep", "Return of the Witch Lord"],
+  "possible_campaigns": 20,
+  "personality_types": [
+    {
+      "_id": "PersonalityTypes/explorer",
+      "percentage": "30%"
+    },
+    {
+      "_id": "PersonalityTypes/achiever",
+      "percentage": "25%"
+    },
+    {
+      "_id": "PersonalityTypes/competitor",
+      "percentage": "20%"
+    },
+    {
+      "_id": "PersonalityTypes/socializer",
+      "percentage": "15%"
+    },
+    {
+      "_id": "PersonalityTypes/killer",
+      "percentage": "10%"
+    }
+  ],
+  "setup": {
+    "footprint": "Medium",
+    "footprint_notes": "Requires a reasonable amount of table space for the board and player components.",
+    "time": "10 mins",
+    "time_notes": "Setup time can be reduced with experience and organization.",
+    "complexity": "Medium",
+    "complexity_notes": "While setup is not overly complex, it does require sorting and placement of various components."
+  },
+  "teardown": {
+    "time": "10 mins",
+    "time_notes": "Teardown is straightforward, but sorting and storing components can take some time."
+  },
+  "packaging": {
+    "storage": "Good",
+    "storage_notes": "The game box includes insert trays to help organize and store components.",
+    "transport": "Medium",
+    "transport_notes": "While the box is sturdy, its size can make it a bit unwieldy for transport."
+  },
+  "artwork": "Classic Fantasy",
+  "artwork_notes": "The artwork and components contribute to the immersive fantasy theme of the game.",
+  "components": {
+    "type": "High Quality",
+    "type_notes": "Components are durable and well-made, with detailed miniatures and sturdy game board."
+  },
+  "replayability": "High",
+  "replayability_notes": "With a variety of quests and the potential for different strategies, the game offers high replayability.",
+  "scalability": {
+    "players": "Good",
+    "players_notes": "The game scales well with different numbers of players, though it is best with four.",
+    "experience": "Medium",
+    "experience_notes": "While new players can join in, they may find themselves at a slight disadvantage due to the game's depth."
+  },
+  "player_interaction": "High",
+  "player_interaction_notes": "As a cooperative game, players must work together to strategize and defeat the game's challenges.",
+  "release_date": "1989"
+}

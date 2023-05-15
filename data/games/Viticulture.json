@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Viticulture",
+    "theme": "Wine production",
+    "genres": [
+      {
+        "genre": "Economic",
+        "percentage": "50%"
+      },
+      {
+        "genre": "Strategy",
+        "percentage": "50%"
+      }
+    ],
+    "cost": "$60",
+    "premise": "Players participate in the strategic cultivation and trade of wine.",
+    "description": "Viticulture is a worker-placement game set in the foothills of Tuscany. The players are in the roles of people in rustic, pre-modern Tuscany who have inherited meager vineyards. They have a few plots of land, an old crush pad, a tiny cellar, and three workers.",
+    "players": {
+      "possible": "1-6",
+      "recommended": "2-4"
+    },
+    "total_playtime": "90 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "90 minutes",
+    "session_playtime_notes": "Playtime varies based on the number of players.",
+    "immersiveness_level": "Medium",
+    "immersiveness_level_notes": "Players must strategically manage their vineyard and resources to succeed.",
+    "learning_curve": "Medium",
+    "learning_curve_notes": "Several strategies can lead to victory, and learning how to best utilize the workers adds depth to the game.",
+    "save_mechanism": "N/A",
+    "save_mechanism_notes": "The game is typically played in a single session without need for a save mechanism.",
+    "how_to_win": "The player with the most victory points, earned by making and selling wine, wins.",
+    "how_to_lose": "You might be left behind if other players are more efficient in managing their vineyard and producing wine.",
+    "type_of_play": "Turn-based",
+    "similar_games": ["Agricola", "Caverna", "Le Havre"],
+    "popularity": "High",
+    "expansions": [
+      "Viticulture: Tuscany Essential Edition",
+      "Viticulture: Visit from the Rhine Valley"
+    ],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Strategic Thinkers": {
+        "reasons": [
+          "Offers many strategic paths to victory",
+          "Requires careful planning and thought"
+        ]
+      },
+      "Social Players": {
+        "reasons": ["Interaction with other players in the market"]
+      }
+    },
+    "similar_video_games": ["Stardew Valley"],
+    "unique_selling_point": "Its blend of economic strategy and thematic immersion in the world of wine-making.",
+    "category": "Economic"
+  }
+]

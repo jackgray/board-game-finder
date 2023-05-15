@@ -1,0 +1,73 @@
+{
+  "_key": "warhammer",
+  "collection": "Warhammer Collection",
+  "_id": "Warhammer/warhammer",
+  "name": "Warhammer",
+  "theme": "Fantasy",
+  "category": "Miniature Wargame",
+  "genres": [
+    { "genre": "Strategy", "percentage": "60%" },
+    { "genre": "Tactical", "percentage": "40%" },
+    { "genre": "Fantasy", "percentage": "100%" }
+  ],
+  "cost": "$150",
+  "premise": "Warhammer is set in a rich fantasy world where players command armies of different factions and wage epic battles on tabletop battlefields.",
+  "description": "Warhammer is a highly strategic and immersive miniature wargame that allows players to take control of armies and engage in large-scale battles. With intricately detailed miniatures and a deep lore, Warhammer provides a compelling gaming experience for hobbyists and strategy enthusiasts alike. Players can customize their armies, make tactical decisions, and engage in epic clashes against opponents, creating dynamic and engaging narratives on the battlefield.",
+  "players": {
+    "possible": "2+",
+    "recommended": "2-4"
+  },
+  "total_playtime": "Variable",
+  "total_playtime_notes": "The playtime for Warhammer can vary widely depending on the size of the armies, battle scenarios, and player experience. A typical game session can range from a few hours to an entire day.",
+  "setup": {
+    "footprint": "Large",
+    "footprint_notes": "Warhammer requires a substantial play area to accommodate the game board, miniatures, and terrain elements.",
+    "time": "30-60 minutes",
+    "time_notes": "Setting up the game includes assembling and placing terrain, deploying armies, and preparing game components. The setup time can vary depending on the complexity and size of the battle.",
+    "complexity": "High",
+    "complexity_notes": "Warhammer has complex rules and mechanics that may require a learning curve for new players. However, experienced players can enjoy deep strategic gameplay and tactical decision-making."
+  },
+  "rule_complexity": "High",
+  "rule_complexity_notes": "Warhammer has intricate rules governing movement, combat, and army management. It may take time to fully grasp the game's mechanics and strategic depth.",
+  "mastery_curve": "Challenging",
+  "mastery_curve_notes": "Achieving mastery in Warhammer requires experience, understanding of the rules, and tactical finesse. Regular play and familiarity with army compositions and strategies can lead to improved performance.",
+  "additional_notes": "Warhammer is known for its extensive lore and dedicated community. It offers a wide range of army factions and provides opportunities for creative painting and customization of miniatures.",
+  "similar_games": [
+    "Age of Sigmar",
+    "Warhammer 40,000",
+    "Warmachine",
+    "Kings of War"
+  ],
+  "popularity": "High",
+  "expansions": ["Warhammer Armies", "Campaign Books", "Battle Terrain Sets"],
+  "possible_campaigns": 10,
+  "personality_types": {
+    "strategic": {
+      "reasons": [
+        "Warhammer's deep strategic gameplay allows players to plan and execute complex maneuvers.",
+        "The army-building aspect appeals to strategic thinkers who enjoy devising effective strategies.",
+        "The extensive range of units and factions offers a variety of tactical options for players to explore."
+      ]
+    },
+    "creative": {
+      "reasons": [
+        "The opportunity to paint and customize miniatures allows for creative expression and personalization.",
+        "The rich lore and immersive world of Warhammer provide a canvas for creative storytelling and narrative-driven battles."
+      ]
+    },
+    "competitive": {
+      "reasons": [
+        "Warhammer's strategic depth and tournament scene attract competitive players seeking challenging gameplay.",
+        "The balance between different factions and armies offers a competitive environment where skill and strategy determine victory.",
+        "Tactical decision-making and adapting to opponents' strategies make Warhammer a thrilling competitive experience."
+      ]
+    }
+  },
+  "similar_video_games": [
+    "Total War: Warhammer",
+    "Blood Bowl",
+    "Mordheim: City of the Damned"
+  ],
+  "unique_selling_point": "Warhammer's rich lore, intricate miniatures, and deep strategic gameplay set it apart as a premier miniature wargame.",
+  "min_age": 14
+}

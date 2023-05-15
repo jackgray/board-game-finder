@@ -1,0 +1,297 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/board-game-schema.json",
+  "title": "Board Game Schema",
+  "type": "object",
+  "properties": {
+    "_key": {
+      "type": "string",
+      "description": "The unique identifier of the board game."
+    },
+    "collection": {
+      "type": "string",
+      "description": "The collection to which the game belongs. Examples: Board Games, Role Playing, Card Games",
+      "defaults": { "_key": "board_games", "name": "Board Games" }
+    },
+    "_id": {
+      "type": "string",
+      "description": "The ID of the game, which is a combination of the collection and the _key, separated by '/'."
+    },
+    "name": { "type": "string", "description": "The name of the board game." },
+    "theme": {
+      "type": "string",
+      "description": "A brief description of the game's setting or thematic elements."
+    },
+    "category": {
+      "type": "string",
+      "description": "The category into which the game falls (e.g., narrative adventure, deck building, asymmetric strategy, role-playing, exploration, survival, two-player)."
+    },
+    "genres": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "genre": {
+            "type": "string",
+            "description": "A genre or style of the game."
+          },
+          "percentage": {
+            "type": "string",
+            "description": "What percentage of the game fits into the specified genre. The genre should be listed as long as it's percentage is more than 0%"
+          }
+        },
+        "required": ["genre", "percentage"]
+      },
+      "description": "An array of genres that the game fits into. There should be as many genres listed as possible"
+    },
+    "cost": { "type": "string", "description": "The retail cost of the game." },
+    "premise": {
+      "type": "string",
+      "description": "A brief summary of the game's premise or story."
+    },
+    "description": {
+      "type": "string",
+      "description": "A full description of the game, including how it's played."
+    },
+    "players": {
+      "type": "object",
+      "properties": {
+        "possible": {
+          "type": "string",
+          "description": "The range of players that the game can accommodate."
+        },
+        "recommended": {
+          "type": "string",
+          "description": "The recommended number of players for the optimal game experience."
+        }
+      },
+      "required": ["possible", "recommended"],
+      "description": "Information about the game's player count."
+    },
+    "total_playtime": {
+      "type": "string",
+      "description": "The average total playtime for a game, encompassing how long it takes to play through chapters, sessions, stories, and everything the game has to offer."
+    },
+    "total_playtime_notes": {
+      "type": "string",
+      "description": "Additional notes about the total playtime."
+    },
+    "number_of_sessions": {
+      "type": "string",
+      "description": "The number of sessions or parts the game can be played in."
+    },
+    "session_playtime": {
+      "type": "string",
+      "description": "The average playtime for one session or part of the game."
+    },
+    "session_playtime_notes": {
+      "type": "string",
+      "description": "Additional notes about the session playtime."
+    },
+    "mechanics": {
+      "type": "array",
+      "description": "The different mechanics used in the game, each with a percentage indicating how much it is used in the game. Percentage distribution is ascribed only when a particular mechanic's usage in the game is more than 0%",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the mechanic. The mechanic should be present in the referenced mechanics list."
+          },
+          "percentage": {
+            "type": "string",
+            "description": "The percentage that indicates how much this mechanic is used in the game."
+          }
+        },
+        "required": ["name", "percentage"]
+      }
+    },
+    "immersiveness_level": {
+      "type": "string",
+      "description": "The level of immersiveness or engagement in the game's world or theme."
+    },
+    "immersiveness_level_notes": {
+      "type": "string",
+      "description": "Additional notes about the level of immersiveness."
+    },
+    "learning_curve": {
+      "type": "string",
+      "description": "The level of difficulty in learning the game."
+    },
+    "learning_curve_notes": {
+      "type": "string",
+      "description": "Additional notes about the game's learning curve."
+    },
+    "save_mechanism": {
+      "type": "string",
+      "description": "Information about the game's save mechanism, if applicable."
+    },
+    "save_mechanism_notes": {
+      "type": "string",
+      "description": "Additional notes about the game's save mechanism."
+    },
+    "how_to_win": {
+      "type": "string",
+      "description": "Brief description of winning conditions."
+    },
+    "how_to_lose": {
+      "type": "string",
+      "description": "Brief description of losing conditions."
+    },
+    "type_of_play": {
+      "type": "string",
+      "description": "Type of gameplay (e.g., turn-based, real-time, cooperative, competitive)."
+    },
+    "similar_games": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "A list of games that are similar in mechanics or theme."
+    },
+    "popularity": {
+      "type": "string",
+      "description": "Popularity level of the game."
+    },
+    "expansions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of expansions for the game."
+    },
+    "possible_campaigns": {
+      "type": "integer",
+      "description": "The number of possible campaigns or scenarios within the game."
+    },
+    "personality_types": {
+      "type": "array",
+      "description": "A list of personality types who might enjoy the game. Each entry is a reference to a document in the PersonalityTypes collection.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "_id": {
+            "type": "string",
+            "description": "The _id of the personality type in the PersonalityTypes collection."
+          },
+          "reasons": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "List of reasons why this personality type might enjoy the game. These reasons should be more focused on the types of players who would enjoy the game, drawing from knowledge of human psychology."
+          }
+        },
+        "required": ["_id", "reasons"]
+      }
+    },
+
+    "setup": {
+      "type": "object",
+      "properties": {
+        "footprint": {
+          "type": "string",
+          "description": "The game's space requirement."
+        },
+        "footprint_notes": {
+          "type": "string",
+          "description": "Additional notes about the game's space requirement."
+        },
+        "time": {
+          "type": "string",
+          "description": "The time it takes to set up the game."
+        },
+        "time_notes": {
+          "type": "string",
+          "description": "Additional notes about the setup time."
+        },
+        "complexity": {
+          "type": "string",
+          "description": "The complexity of setting up the game."
+        },
+        "complexity_notes": {
+          "type": "string",
+          "description": "Additional notes about the complexity of setting up the game."
+        }
+      },
+      "required": [
+        "footprint",
+        "footprint_notes",
+        "time",
+        "time_notes",
+        "complexity",
+        "complexity_notes"
+      ],
+      "description": "Information about the setup of the game."
+    },
+    "rule_complexity": {
+      "type": "string",
+      "description": "The complexity of the game rules."
+    },
+    "rule_complexity_notes": {
+      "type": "string",
+      "description": "Additional notes about the complexity of the game rules."
+    },
+    "mastery_curve": {
+      "type": "string",
+      "description": "The learning curve for mastering the game."
+    },
+    "mastery_curve_notes": {
+      "type": "string",
+      "description": "Additional notes about the game's mastery curve."
+    },
+    "additional_notes": {
+      "type": "string",
+      "description": "Any additional notes or remarks about the game."
+    },
+    "similar_video_games": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "A list of video games that share similar mechanics or themes."
+    },
+    "unique_selling_point": {
+      "type": "string",
+      "description": "A brief description of what sets this game apart from others in its category."
+    },
+    "min_age": {
+      "type": "integer",
+      "description": "The minimum age requirement to play the game."
+    }
+  },
+  "required": [
+    "_key",
+    "collection",
+    "_id",
+    "name",
+    "theme",
+    "genres",
+    "cost",
+    "premise",
+    "description",
+    "players",
+    "total_playtime",
+    "total_playtime_notes",
+    "setup",
+    "rule_complexity",
+    "rule_complexity_notes",
+    "mastery_curve",
+    "mastery_curve_notes",
+    "additional_notes",
+    "number_of_sessions",
+    "session_playtime",
+    "session_playtime_notes",
+    "mechanics",
+    "immersiveness_level",
+    "immersiveness_level_notes",
+    "learning_curve",
+    "learning_curve_notes",
+    "save_mechanism",
+    "save_mechanism_notes",
+    "how_to_win",
+    "how_to_lose",
+    "type_of_play",
+    "similar_games",
+    "popularity",
+    "expansions",
+    "possible_campaigns",
+    "personality_types",
+    "similar_video_games",
+    "unique_selling_point",
+    "category",
+    "min_age"
+  ]
+}

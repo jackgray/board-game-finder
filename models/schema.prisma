@@ -1,0 +1,57 @@
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model BoardGame {
+  id                    String           @id @default(auto()) @map("_id") @db.ObjectId
+  name                  String
+  genres                Genre[]
+  cost                  String
+  premise               String?
+  description           String
+  players               Players
+  total_playtime        String
+  number_of_sessions    String
+  session_playtime      String
+  session_playtime_notes String?
+  immersiveness_level    String
+  learning_curve        String
+  save_mechanism        String
+  how_to_win            String
+  how_to_lose           String
+  type_of_play          String
+  similar_games         String[]
+  popularity            String
+  expansions            String[]
+  possible_campaigns    Int
+  personality_types     PersonalityType[]
+}
+
+model Genre {
+  id         String    @id @default(auto()) @map("_id") @db.ObjectId
+  genre      String
+  percentage String
+  boardGame  BoardGame @relation(fields: [boardGameId], references: [id])
+  boardGameId String
+}
+
+model Players {
+  id             String    @id @default(auto()) @map("_id") @db.ObjectId
+  possible       String
+  recommended    String
+  boardGame      BoardGame @relation(fields: [boardGameId], references: [id])
+  boardGameId    String
+}
+
+model PersonalityType {
+  id              String    @id @default(auto()) @map("_id") @db.ObjectId
+  type            String
+  reasons         String[]
+  boardGame       BoardGame @relation(fields: [boardGameId], references: [id])
+  boardGameId     String
+}

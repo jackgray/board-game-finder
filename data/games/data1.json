@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Gloomhaven",
+    "genres": [
+      {
+        "genre": "Adventure",
+        "percentage": "70%"
+      },
+      {
+        "genre": "Fantasy",
+        "percentage": "30%"
+      }
+    ],
+    "cost": "$140.00",
+    "premise": "Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world.",
+    "description": "Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives.",
+    "players": {
+      "possible": "1-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "100+ hours",
+    "number_of_sessions": "50+",
+    "session_playtime": "1-2 hours",
+    "session_playtime_notes": "Playtime can extend depending on players' decisions and discussion.",
+    "immersiveness_level": "High",
+    "immersiveness_level_notes": "Gloomhaven's rich story and world-building provides a high level of immersiveness.",
+    "learning_curve": "Moderate to high",
+    "learning_curve_notes": "Given the depth of the mechanics, expect several sessions to fully grasp the rules.",
+    "save_mechanism": "Scenario and campaign progress",
+    "save_mechanism_notes": "Players' decisions carry over and affect the world and story.",
+    "how_to_win": "Complete the objectives for a given scenario.",
+    "how_to_lose": "All characters are exhausted or certain scenario-specific conditions are not met.",
+    "type_of_play": "Cooperative",
+    "similar_games": [
+      "Descent: Journeys in the Dark",
+      "Mansions of Madness",
+      "Imperial Assault"
+    ],
+    "popularity": "High",
+    "expansions": [
+      "Gloomhaven: Forgotten Circles",
+      "Gloomhaven: Jaws of the Lion"
+    ],
+    "possible_campaigns": 1,
+    "personality_types": {
+      "Strategist": {
+        "reasons": [
+          "Deep tactical gameplay",
+          "Variety of classes and abilities"
+        ]
+      },
+      "Storyteller": {
+        "reasons": [
+          "Immersive world and narrative",
+          "Player decisions impact the story"
+        ]
+      }
+    },
+    "similar_video_games": ["Divinity: Original Sin 2", "Baldur's Gate 3"]
+  },
+
+  {
+    "name": "Sleeping Gods",
+    "genre": "Adventure",
+    "cost": "Approximately $70-90",
+    "premise": "Embark on an epic adventure as the crew members of a ship exploring mysterious and dangerous waters.",
+    "description": "Experience an immersive and deeply narrative-driven adventure in Sleeping Gods. Make impactful choices as you explore a richly themed and imaginative world. With a campaign-based structure and open-world feel, this game offers hours of strategic gameplay. Recommended for 3-4 players.",
+    "players": {
+      "possible": "1-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "20-40 hours",
+    "number_of_sessions": "10",
+    "session_playtime": "~2 hours",
+    "immersiveness_level": "High",
+    "learning_curve": "Moderate",
+    "save_mechanism": "Game progress is saved through a logbook and card system",
+    "how_to_win": "Accomplish key objectives and make strategic choices throughout the campaign",
+    "how_to_lose": "Fail to complete critical objectives or meet certain conditions",
+    "type_of_play": "Cooperative, turn-based",
+    "similar_games": ["Near and Far", "Above and Below"],
+    "genre_adventure": "80%",
+    "genre_strategy": "20%",
+    "genre_fantasy": "40%",
+    "genre_open_world": "70%",
+    "popularity": "High",
+    "possible_campaigns": "Multiple campaign options with varying storylines and objectives",
+    "personality_types": {
+      "adventurous": {
+        "reasons": [
+          "Adventurous individuals enjoy immersive storytelling and making impactful choices.",
+          "They seek excitement, exploration, and are willing to take risks to experience new things."
+        ]
+      },
+      "strategic": {
+        "reasons": [
+          "Strategic players appreciate complex gameplay mechanics and enjoy planning and decision-making to achieve their goals.",
+          "They thrive on analyzing and executing effective strategies."
+        ]
+      },
+      "fantasy enthusiasts": {
+        "reasons": [
+          "Fantasy enthusiasts are drawn to richly themed and imaginative worlds.",
+          "They appreciate the fantastical elements, mythical creatures, and the ability to immerse themselves in an imaginative narrative."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Near and Far",
+    "genre": "Adventure",
+    "cost": "Approximately $50-70",
+    "premise": "Embark on an adventure and race to accomplish various goals in a game that blends storytelling and strategy.",
+    "description": "Embark on a thrilling adventure in Near and Far, where strategic choices and captivating storytelling take center stage. Explore diverse landscapes, encounter fascinating characters, and make decisions that shape your journey. With a campaign-based structure and immersive narrative, Near and Far offers a unique blend of adventure and strategy. Recommended for 3-4 players.",
+    "players": {
+      "possible": "2-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "10-20 hours",
+    "number_of_sessions": "10",
+    "session_playtime": "~1-2 hours",
+    "immersiveness_level": "Moderate",
+    "learning_curve": "Moderate",
+    "save_mechanism": "Game progress is recorded on character sheets",
+    "how_to_win": "Accomplish various goals and objectives before other players"
+  },
+
+  {
+    "name": "Stuffed Fables",
+    "genre": "Adventure",
+    "cost": "Approximately $40-60",
+    "premise": "Embark on a whimsical adventure as stuffed animals come to life in a story-driven game.",
+    "description": "Delve into the magical world of Stuffed Fables, where your plush companions spring to life. Join a group of stuffed animals on an imaginative journey filled with wonder, danger, and discovery. With its unique narrative-driven gameplay and beautifully illustrated storybook, Stuffed Fables offers a delightful experience for players of all ages. Recommended for 2-4 players.",
+    "players": {
+      "possible": "2-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "5-10 hours",
+    "number_of_sessions": "5",
+    "session_playtime": "~1-2 hours",
+    "immersiveness_level": "Moderate",
+    "learning_curve": "Easy",
+    "save_mechanism": "Game progress is saved by bookmarking the storybook",
+    "how_to_win": "Complete story objectives and overcome challenges",
+    "how_to_lose": "Fail to achieve story objectives or meet certain conditions",
+    "type_of_play": "Cooperative, turn-based",
+    "similar_games": ["Mice and Mystics", "Aftermath: An Adventure Book Game"],
+    "genre_adventure": "90%",
+    "genre_storytelling": "80%",
+    "genre_family": "60%",
+    "genre_fantasy": "30%",
+    "popularity": "Moderate",
+    "personality_types": {
+      "family-oriented": {
+        "reasons": [
+          "Family-oriented players enjoy games that can be enjoyed by both kids and adults.",
+          "They appreciate engaging storytelling and cooperative gameplay that fosters family bonds and teamwork."
+        ]
+      },
+      "creative": {
+        "reasons": [
+          "Creative players are drawn to imaginative and whimsical settings.",
+          "They enjoy exploring stories and using their creativity to overcome challenges."
+        ]
+      },
+      "casual gamers": {
+        "reasons": [
+          "Casual gamers prefer games with easy-to-learn rules and shorter playtimes.",
+          "They appreciate games that offer a balance of fun, strategy, and accessibility."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Familiar Tales",
+    "genre": "Storytelling, Adventure",
+    "cost": "Approximately $30-40",
+    "premise": "Embark on a cooperative storytelling adventure with your friends as you shape the narrative together.",
+    "description": "Unleash your creativity in Familiar Tales, a unique storytelling game that allows players to craft their own narrative journeys. Dive into immersive and collaborative storytelling experiences, where every decision and choice shapes the unfolding story. With its flexible gameplay and endless storytelling possibilities, Familiar Tales offers a dynamic and engaging experience. Recommended for 3-5 players.",
+    "players": {
+      "possible": "3-5",
+      "recommended": "3-5"
+    },
+    "total_playtime": "2-4 hours",
+    "number_of_sessions": "1",
+    "session_playtime": "~2-4 hours",
+    "immersiveness_level": "High",
+    "learning_curve": "Easy",
+    "save_mechanism": "Game progress can be easily saved by taking notes or recording the story progression",
+    "how_to_win": "Collaboratively create a satisfying and engaging story",
+    "how_to_lose": "The game does not have a specific win/lose condition; focus is on crafting an enjoyable narrative",
+    "type_of_play": "Cooperative, storytelling",
+    "similar_games": ["Once Upon a Time", "Tales of the Arabian Nights"],
+    "genre_storytelling": "90%",
+    "genre_adventure": "70%",
+    "popularity": "Moderate",
+    "personality_types": {
+      "creative": {
+        "reasons": [
+          "Creative players thrive on open-ended storytelling experiences.",
+          "They enjoy using their imagination to shape and craft narratives."
+        ]
+      },
+      "collaborative": {
+        "reasons": [
+          "Collaborative players enjoy working together to create a shared story.",
+          "They appreciate the social interaction and collective creativity that comes with cooperative storytelling."
+        ]
+      },
+      "narrative enthusiasts": {
+        "reasons": [
+          "Narrative enthusiasts are drawn to games with strong storytelling elements.",
+          "They appreciate engaging narratives and enjoy immersing themselves in imaginative worlds."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Forgotten Waters",
+    "genre": "Adventure, Pirate",
+    "cost": "Approximately $50-70",
+    "premise": "Set sail on a pirate adventure and navigate the treacherous waters in search of fame and fortune.",
+    "description": "Embark on a swashbuckling adventure in Forgotten Waters, a narrative-driven pirate game filled with thrilling tales, pirate lore, and daring escapades. Experience the life of a pirate as you make crucial decisions, face challenges, and uncover hidden treasures. With its immersive storytelling and cooperative gameplay, Forgotten Waters offers a unique pirate-themed experience. Recommended for 3-7 players.",
+    "players": {
+      "possible": "3-7",
+      "recommended": "4-6"
+    },
+    "total_playtime": "3-4 hours",
+    "number_of_sessions": "1",
+    "session_playtime": "~3-4 hours",
+    "immersiveness_level": "High",
+    "learning_curve": "Moderate",
+    "save_mechanism": "Game progress can be easily saved through a logbook system",
+    "how_to_win": "Accomplish individual and group objectives throughout the pirate adventure",
+    "how_to_lose": "Fail to complete critical objectives or meet certain conditions",
+    "type_of_play": "Cooperative, storytelling",
+    "similar_games": ["Dead of Winter", "Pandemic: Reign of Cthulhu"],
+    "genre_adventure": "80%",
+    "genre_storytelling": "70%",
+    "genre_pirate": "90%",
+    "popularity": "Moderate",
+    "personality_types": {
+      "adventurous": {
+        "reasons": [
+          "Adventurous individuals enjoy immersive storytelling and making impactful choices.",
+          "They seek excitement, exploration, and are willing to take risks to experience new things."
+        ]
+      },
+      "thematic enthusiasts": {
+        "reasons": [
+          "Thematic enthusiasts appreciate games with strong thematic elements and immersive experiences.",
+          "They enjoy being transported to different worlds and engaging in rich narratives."
+        ]
+      },
+      "cooperative gamers": {
+        "reasons": [
+          "Cooperative gamers enjoy working together with others towards a common goal.",
+          "They appreciate the teamwork, coordination, and shared decision-making aspects of cooperative games."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Oath",
+    "genre": "Campaign, Area Control",
+    "cost": "Approximately $80-100",
+    "premise": "Enter a realm of shifting power, politics, and destiny as you compete to become the ruler of the land.",
+    "description": "Immerse yourself in the ever-changing world of Oath, a unique campaign-driven game of politics, exploration, and empire-building. Navigate the intricacies of a dynamic game world where each decision and action has consequences. Shape the fate of the land, forge alliances, and unravel the mysteries of the past. With its innovative gameplay and rich narrative, Oath offers a captivating and replayable experience. Recommended for 1-6 players.",
+    "players": {
+      "possible": "1-6",
+      "recommended": "3-4"
+    },
+    "total_playtime": "60-180 minutes",
+    "number_of_sessions": "Variable",
+    "session_playtime": "~60-180 minutes",
+    "session_playtime_notes": "Variable depending on the campaign length and player count",
+    "possible_campaigns": "Multiple campaign options with varying lengths and objectives",
+    "immersiveness_level": "High",
+    "learning_curve": "Moderate",
+    "save_mechanism": "Game progress can be saved by recording the state of the game board, player positions, and card ownership",
+    "how_to_win": "Accumulate the most victory points through strategic actions, control of key areas, and fulfilling the Oath's conditions",
+    "how_to_lose": "Lose control over key areas, fail to fulfill the Oath's conditions, or be overtaken by opponents",
+    "type_of_play": "Competitive, area control",
+    "similar_games": ["Root", "Rising Sun"],
+    "genre_campaign": "80%",
+    "genre_area_control": "90%",
+    "popularity": "Moderate",
+    "personality_types": {
+      "strategic thinkers": {
+        "reasons": [
+          "Strategic thinkers enjoy analyzing game systems and planning their moves in advance.",
+          "They appreciate games that offer depth, meaningful choices, and opportunities for strategic decision-making."
+        ]
+      },
+      "diplomatic players": {
+        "reasons": [
+          "Diplomatic players excel at negotiating and forging alliances in game situations.",
+          "They enjoy the social interaction and negotiation aspects of games that involve player interaction."
+        ]
+      },
+      "campaign enthusiasts": {
+        "reasons": [
+          "Campaign enthusiasts are drawn to games with evolving narratives and persistent game worlds.",
+          "They enjoy the long-term storytelling and progression that comes with campaign-style gameplay."
+        ]
+      }
+    }
+  },
+  {
+    "name": "7 Wonders: Duel",
+    "genres": [
+      { "Civilization": "70%" },
+      { "Card Game": "80%" },
+      { "Strategy": "90%" }
+    ],
+    "cost": "~$20-30",
+    "premise": "Lead your civilization to greatness by constructing architectural wonders, advancing technologies, and outmaneuvering your opponent.",
+    "description": "7 Wonders: Duel is a two-player card game that condenses the epic civilization-building experience of the original 7 Wonders game into an intense strategic duel. Construct architectural wonders, develop your civilization's military, scientific, and cultural advancements, and employ tactics to gain an edge over your opponent. With its quick gameplay and clever card-drafting mechanics, 7 Wonders: Duel offers deep strategic choices and replayability. Recommended for 2 players.",
+    "players": {
+      "possible": "2",
+      "recommended": "2"
+    },
+    "total_playtime": "~30 minutes",
+    "number_of_sessions": "Variable",
+    "session_playtime": "~30 minutes",
+    "session_playtime_notes": "Variable depending on player experience and speed of play",
+    "immersiveness_level": "Moderate",
+    "learning_curve": "Low",
+    "save_mechanism": "Game progress can be easily saved by recording the state of the game board and card ownership",
+    "how_to_win": "Achieve military supremacy, scientific advancements, or cultural achievements to earn victory points and outscore your opponent",
+    "how_to_lose": "Fall behind in victory points, have insufficient military strength, or allow your opponent to trigger a game-ending condition",
+    "type_of_play": "Competitive, card drafting",
+    "similar_games": [
+      "7 Wonders",
+      "Through the Ages: A New Story of Civilization"
+    ],
+    "genre_civilization": "70%",
+    "genre_card_game": "80%",
+    "genre_strategy": "90%",
+    "popularity": "High",
+    "personality_types": {
+      "strategic thinkers": {
+        "reasons": [
+          "Strategic thinkers enjoy planning their moves and adapting their strategies based on the available cards and their opponent's actions.",
+          "They appreciate games that require foresight and decision-making to outmaneuver their opponent."
+        ]
+      },
+      "card game enthusiasts": {
+        "reasons": [
+          "Card game enthusiasts appreciate the depth and variety that can be found in games with card-driven mechanics.",
+          "They enjoy the tactical choices and card interactions that shape the gameplay experience."
+        ]
+      },
+      "cultural enthusiasts": {
+        "reasons": [
+          "Cultural enthusiasts enjoy exploring historical and cultural themes through gameplay.",
+          "They appreciate games that allow them to immerse themselves in the development and growth of civilizations."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Splendor",
+    "genres": [
+      { "Card Game": "70%" },
+      { "Strategy": "80%" },
+      { "Economic": "60%" },
+      { "Set Collection": "50%" }
+    ],
+    "cost": "~$30-40",
+    "premise": "Become a wealthy Renaissance merchant by trading gems and acquiring prestigious developments.",
+    "description": "Splendor is a fast-paced and addictive card-based strategy game. Collect gems, purchase development cards, and attract influential nobles to earn prestige points. With simple rules and deep strategic gameplay, Splendor offers a satisfying experience for players of all skill levels. Recommended for 2-4 players.",
+    "players": {
+      "possible": "2-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "~30 minutes",
+    "number_of_sessions": "Variable",
+    "session_playtime": "~30 minutes",
+    "session_playtime_notes": "Variable depending on player experience and speed of play",
+    "immersiveness_level": "Low",
+    "learning_curve": "Low",
+    "save_mechanism": "Game progress can be easily saved by recording the state of the gem cards and development cards",
+    "how_to_win": "Accumulate the required number of prestige points through gem collection and development card acquisition",
+    "how_to_lose": "Fail to acquire the necessary resources and prestige points compared to opponents",
+    "type_of_play": "Competitive",
+    "similar_games": ["Azul", "Century: Spice Road"],
+    "popularity": "High",
+    "expansions": ["Cities of Splendor", "The Strongholds", "The Trading Posts"]
+  },
+  {
+    "name": "Pawsome Tricksters",
+    "genres": [
+      { "genre": "Card Game", "percentage": "70%" },
+      { "genre": "Family", "percentage": "30%" }
+    ],
+    "cost": "$15",
+    "premise": "Pawsome Tricksters is a lively card game where adorable dogs compete to win tricks and show off their tricksy skills.",
+    "description": "In Pawsome Tricksters, players assume the roles of cute and mischievous dogs, each with their own special abilities. The game follows traditional trick-taking mechanics, where players strategically play cards to win tricks. However, in this whimsical twist, the dogs have tricks of their own, allowing them to bend the rules, steal tricks, or unleash mischief on other players. With colorful illustrations, engaging gameplay, and a delightful dog theme, Pawsome Tricksters is a fun-filled card game suitable for the whole family.",
+    "players": {
+      "possible": "3-6",
+      "recommended": "4-5"
+    },
+    "total_playtime": "30-45 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "30-45 minutes",
+    "session_playtime_notes": "A single session typically covers the entire game.",
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "While Pawsome Tricksters offers an enjoyable theme, the focus is more on strategic card play rather than deep immersion.",
+    "learning_curve": "Moderate",
+    "learning_curve_notes": "The game has simple rules and mechanics, but the strategic aspects of trick-taking may require a few rounds to fully grasp.",
+    "save_mechanism": "Not applicable",
+    "save_mechanism_notes": "As Pawsome Tricksters is played in a single session, there is no need for a save mechanism.",
+    "how_to_win": "The goal of Pawsome Tricksters is to accumulate the most points by winning tricks through strategic card play and utilizing the special abilities of the dog characters.",
+    "how_to_lose": "There is no specific way to lose in Pawsome Tricksters, as the focus is on accumulating points rather than player elimination.",
+    "type_of_play": "Competitive",
+    "similar_games": ["The Fox in the Forest", "Diamonds", "Wizard"],
+    "popularity": "Moderate",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Strategic": {
+        "reasons": [
+          "Pawsome Tricksters involves strategic card play and decision-making."
+        ]
+      },
+      "Playful": {
+        "reasons": [
+          "The whimsical dog theme and mischievous gameplay appeals to those with a playful nature."
+        ]
+      },
+      "Social": {
+        "reasons": [
+          "The game encourages interaction and friendly competition among players."
+        ]
+      }
+    },
+    "similar_video_games": []
+  },
+  {
+    "name": "Whisker Whims",
+    "genres": [
+      { "genre": "Card Game", "percentage": "80%" },
+      { "genre": "Family", "percentage": "20%" }
+    ],
+    "cost": "$10",
+    "premise": "Whisker Whims is a delightful card game where players help cute animals complete whimsical tasks in a charming forest setting.",
+    "description": "In Whisker Whims, players embark on a whimsical journey through the forest, assisting adorable animals with various tasks. The game features simple mechanics, where players play cards to match specific requirements and earn points. Each animal has its own unique task, and players must strategize to complete them efficiently. With its charming artwork, straightforward gameplay, and quick playtime, Whisker Whims is the perfect card game for players of all ages to enjoy a lighthearted and fun-filled experience.",
+    "players": {
+      "possible": "2-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "20-30 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "20-30 minutes",
+    "session_playtime_notes": "A single session typically covers the entire game.",
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "Whisker Whims offers a cute and immersive theme, but the gameplay focuses more on quick decision-making and card play.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "The game has simple rules and mechanics, making it easy for players to learn and start playing quickly.",
+    "save_mechanism": "Not applicable",
+    "save_mechanism_notes": "As Whisker Whims is played in a single session, there is no need for a save mechanism.",
+    "how_to_win": "The goal of Whisker Whims is to earn the most points by successfully completing animal tasks through card play.",
+    "how_to_lose": "There is no specific way to lose in Whisker Whims, as the focus is on accumulating points rather than player elimination.",
+    "type_of_play": "Competitive",
+    "similar_games": ["Go Nuts for Donuts", "Kitty Paw", "Llama Drama"],
+    "popularity": "Moderate",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Casual": {
+        "reasons": [
+          "Whisker Whims offers a light and casual gaming experience."
+        ]
+      },
+      "Creative": {
+        "reasons": [
+          "The charming artwork and whimsical theme of the game appeals to creative individuals."
+        ]
+      },
+      "Family-Oriented": {
+        "reasons": [
+          "The game's cute and easy-to-learn nature makes it suitable for family game nights."
+        ]
+      }
+    },
+    "similar_video_games": []
+  },
+  {
+    "name": "Furry Friends Frenzy",
+    "genres": [
+      { "genre": "Card Game", "percentage": "90%" },
+      { "genre": "Family", "percentage": "10%" }
+    ],
+    "cost": "$12",
+    "premise": "Furry Friends Frenzy is an adorable card game where players collect and match cute animals to create the most whimsical combinations.",
+    "description": "In Furry Friends Frenzy, players compete to create the most delightful combinations of cute animals. Each card features a unique animal with specific attributes, and players must strategically match them to earn points. With its charming artwork, simple rules, and quick gameplay, Furry Friends Frenzy is a fun and accessible card game that will appeal to players of all ages. Get ready to create furry-filled combinations and enjoy the frenzy of adorable animals!",
+    "players": {
+      "possible": "2-5",
+      "recommended": "3-4"
+    },
+    "total_playtime": "20-30 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "20-30 minutes",
+    "session_playtime_notes": "A single session typically covers the entire game.",
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "Furry Friends Frenzy offers a cute and whimsical theme, but the gameplay focuses more on card matching and strategy.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "The game has straightforward rules and mechanics, making it easy for players to learn and enjoy without complex strategies.",
+    "save_mechanism": "Not applicable",
+    "save_mechanism_notes": "As Furry Friends Frenzy is played in a single session, there is no need for a save mechanism.",
+    "how_to_win": "The goal of Furry Friends Frenzy is to collect and match the most valuable combinations of adorable animals to earn the highest score.",
+    "how_to_lose": "There is no specific way to lose in Furry Friends Frenzy, as the focus is on accumulating points rather than player elimination.",
+    "type_of_play": "Competitive",
+    "similar_games": ["Happy Salmon", "Animix", "Sparkle*Kitty"],
+    "popularity": "Moderate",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Casual": {
+        "reasons": [
+          "Furry Friends Frenzy offers a light and casual gaming experience with its cute animal theme."
+        ]
+      },
+      "Family-Oriented": {
+        "reasons": [
+          "The game's adorable artwork and easy-to-learn mechanics make it a great choice for family game nights."
+        ]
+      },
+      "Collectors": {
+        "reasons": [
+          "The game's focus on collecting cute animals and creating combinations will appeal to collectors."
+        ]
+      }
+    },
+    "similar_video_games": []
+  },
+  {
+    "name": "Puppy Party Parade",
+    "genres": [
+      { "genre": "Card Game", "percentage": "80%" },
+      { "genre": "Family", "percentage": "20%" }
+    ],
+    "cost": "$14",
+    "premise": "Puppy Party Parade is a delightful card game where players guide adorable puppies through an exciting parade route filled with treats and fun.",
+    "description": "In Puppy Party Parade, players take on the role of puppy trainers, guiding their cute and playful pups through an exciting parade route. The game features easy-to-learn card mechanics, where players play cards to move their puppies, collect treats, and overcome various obstacles. The goal is to create the most impressive puppy parade and earn the highest score. With its charming artwork, simple rules, and quick playtime, Puppy Party Parade is a delightful card game for the whole family to enjoy.",
+    "players": {
+      "possible": "2-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "20-30 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "20-30 minutes",
+    "session_playtime_notes": "A single session typically covers the entire game.",
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "Puppy Party Parade offers a cute and engaging theme, but the focus is more on card play and strategy rather than deep immersion.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "The game has simple rules and mechanics, making it accessible and enjoyable for players of all ages.",
+    "save_mechanism": "Not applicable",
+    "save_mechanism_notes": "As Puppy Party Parade is played in a single session, there is no need for a save mechanism.",
+    "how_to_win": "The goal of Puppy Party Parade is to guide your puppies through the parade route, collect treats, and earn the highest score.",
+    "how_to_lose": "There is no specific way to lose in Puppy Party Parade, as the focus is on accumulating points and enjoying the playful puppy theme.",
+    "type_of_play": "Competitive",
+    "similar_games": ["Kitten Caboodle", "Bunny Hop", "Piggy Bank"],
+    "popularity": "Moderate",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Family-Oriented": {
+        "reasons": [
+          "Puppy Party Parade's adorable puppies and family-friendly gameplay make it an ideal choice for family game nights."
+        ]
+      },
+      "Casual": {
+        "reasons": [
+          "The game's cute theme and easy-to-learn mechanics cater to casual players looking for a fun and lighthearted experience."
+        ]
+      },
+      "Animal Lovers": {
+        "reasons": [
+          "Puppy Party Parade's focus on adorable puppies will resonate with those who love animals and enjoy themed games."
+        ]
+      }
+    },
+    "similar_video_games": []
+  },
+  {
+    "name": "Happy Salmon",
+    "genres": [
+      { "genre": "Card Game", "percentage": "90%" },
+      { "genre": "Party", "percentage": "10%" }
+    ],
+    "cost": "$15",
+    "premise": "Happy Salmon is a fast-paced, hilarious card game where players engage in energetic and fin-flapping actions to match and discard their cards.",
+    "description": "In Happy Salmon, players engage in a frenzied card game where the goal is to find and match cards with other players through energetic actions. Each player has a deck of cards with different actions, and they must rapidly find someone else with the same action to discard their cards. With actions like the 'Happy Salmon' and 'High 5', the game is full of laughter and high-energy fun. Happy Salmon is a perfect choice for parties, family gatherings, or any group looking for an exciting and hilarious game experience.",
+    "players": {
+      "possible": "3-6",
+      "recommended": "4-6"
+    },
+    "total_playtime": "5-10 minutes",
+    "number_of_sessions": "Multiple",
+    "session_playtime": "5-10 minutes",
+    "session_playtime_notes": "Each session is a quick and energetic round, and the game is designed to be played multiple times.",
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "Happy Salmon focuses on fast-paced action and interactive gameplay rather than deep immersion.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "The game has simple rules and mechanics, and players can jump right into the fun with no complicated strategies to learn.",
+    "save_mechanism": "Not applicable",
+    "save_mechanism_notes": "As Happy Salmon is played in quick and energetic sessions, there is no need for a save mechanism.",
+    "how_to_win": "The goal of Happy Salmon is to be the first player to discard all of their cards by finding matches with other players through energetic actions.",
+    "how_to_lose": "There is no specific way to lose in Happy Salmon, as the focus is on fast-paced fun and matching cards rather than player elimination.",
+    "type_of_play": "Party",
+    "similar_games": [],
+    "popularity": "High",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Social": {
+        "reasons": [
+          "Happy Salmon's interactive and energetic gameplay makes it a hit among social and outgoing players."
+        ]
+      },
+      "Party Animals": {
+        "reasons": [
+          "The game's party-focused nature and hilarious actions appeal to those who love lively group experiences."
+        ]
+      },
+      "Family-Oriented": {
+        "reasons": [
+          "Happy Salmon's fast-paced and easy-to-learn mechanics make it suitable for fun-filled family game nights."
+        ]
+      }
+    },
+    "similar_video_games": []
+  },
+  {
+    "name": "Animix",
+    "genres": [
+      { "genre": "Card Game", "percentage": "70%" },
+      { "genre": "Family", "percentage": "30%" }
+    ],
+    "cost": "$20",
+    "premise": "Animix is a creative and cute card game where players mix and match animal parts to create whimsical creatures.",
+    "description": "In Animix, players enter a world of imagination and creativity as they mix and match animal parts to create unique and whimsical creatures. The game features beautifully illustrated cards depicting different animal heads, bodies, and tails. Players take turns creating creatures by combining these cards and trying to match their own secret objective. With its easy-to-learn mechanics and endless possibilities for creature combinations, Animix provides a fun and imaginative experience for players of all ages.",
+    "players": {
+      "possible": "2-6",
+      "recommended": "3-5"
+    },
+    "total_playtime": "30 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "30 minutes",
+    "session_playtime_notes": "A single session typically covers the entire game.",
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "Animix offers a creative and imaginative theme, but the gameplay focuses more on card combination and strategy.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "The game has straightforward rules and mechanics, making it easy for players to learn and unleash their creativity.",
+    "save_mechanism": "Not applicable",
+    "save_mechanism_notes": "As Animix is played in a single session, there is no need for a save mechanism.",
+    "how_to_win": "The goal of Animix is to earn the most points by creating creatures that match your secret objective and satisfy the shared objective criteria.",
+    "how_to_lose": "There is no specific way to lose in Animix, as the focus is on creative creature building and enjoyment rather than player elimination.",
+    "type_of_play": "Competitive",
+    "similar_games": ["Happy Salmon", "Furry Friends Frenzy", "Whisker Whims"],
+    "popularity": "Moderate",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Creative": {
+        "reasons": [
+          "Animix's imaginative gameplay and creature-building mechanics appeal to those with a creative and artistic mindset."
+        ]
+      },
+      "Family-Oriented": {
+        "reasons": [
+          "The game's cute and family-friendly nature makes it a great choice for enjoyable family game nights."
+        ]
+      },
+      "Casual": {
+        "reasons": [
+          "Animix offers a light and casual gaming experience that allows players to express their creativity and have fun."
+        ]
+      }
+    },
+    "similar_video_games": []
+  },
+  {
+    "name": "Sparkle*Kitty",
+    "genres": [
+      { "genre": "Card Game", "percentage": "80%" },
+      { "genre": "Party", "percentage": "20%" }
+    ],
+    "cost": "$25",
+    "premise": "Sparkle*Kitty is a magical and whimsical card game where players break free from the witch's spell by creating funny and powerful spells of their own.",
+    "description": "In Sparkle*Kitty, players find themselves trapped in a spell cast by the wicked witch. To break free, they must use their magical powers to create funny and powerful spells by combining and playing cards from their hand. Each spell brings them closer to freedom and introduces amusing effects that affect the game and other players. With its humorous theme, colorful illustrations, and interactive gameplay, Sparkle*Kitty is a fantastic choice for a lighthearted and magical gaming experience.",
+    "players": {
+      "possible": "3-8",
+      "recommended": "4-6"
+    },
+    "total_playtime": "20-30 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "20-30 minutes",
+    "session_playtime_notes": "A single session typically covers the entire game.",
+    "immersiveness_level": "Low",
+    "immersiveness_level_notes": "Sparkle*Kitty offers a whimsical theme and engaging gameplay, but the focus is more on card play and strategy rather than deep immersion.",
+    "learning_curve": "Low",
+    "learning_curve_notes": "The game has simple rules and mechanics, allowing players to quickly grasp the gameplay and enjoy the magical experience.",
+    "save_mechanism": "Not applicable",
+    "save_mechanism_notes": "As Sparkle*Kitty is played in a single session, there is no need for a save mechanism.",
+    "how_to_win": "The goal of Sparkle*Kitty is to be the first player to break free from the witch's spell by playing and combining spells in clever and strategic ways.",
+    "how_to_lose": "There is no specific way to lose in Sparkle*Kitty, as the focus is on creative spellcasting and enjoying the whimsical theme.",
+    "type_of_play": "Party",
+    "similar_games": [],
+    "popularity": "High",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Fun-Loving": {
+        "reasons": [
+          "Sparkle*Kitty's humorous and whimsical gameplay appeals to those who enjoy light-hearted and entertaining experiences."
+        ]
+      },
+      "Party Animals": {
+        "reasons": [
+          "The game's party-focused nature and interactive spellcasting make it a hit among those who love lively and engaging group experiences."
+        ]
+      },
+      "Casual": {
+        "reasons": [
+          "Sparkle*Kitty offers a fun and casual gaming experience that allows players to unleash their creativity and enjoy magical moments."
+        ]
+      }
+    },
+    "similar_video_games": []
+  },
+
+  {
+    "name": "Pathfinder Adventure Card Game: Rise of the Runelords",
+    "genres": [
+      {
+        "genre": "Fantasy",
+        "percentage": "80%"
+      },
+      {
+        "genre": "Adventure",
+        "percentage": "20%"
+      }
+    ],
+    "cost": "$59.99",
+    "premise": "Players are adventurers seeking to stop the resurgence of the Runelords, ancient lords of magic and incredible power.",
+    "description": "Pathfinder Adventure Card Game: Rise of the Runelords is a cooperative strategy game, with RPG elements and deck-building mechanics.",
+    "players": {
+      "possible": "1-4",
+      "recommended": "4"
+    },
+    "total_playtime": "90 minutes per session",
+    "number_of_sessions": "Depends on the number of Adventure Decks played.",
+    "session_playtime": "90 minutes",
+    "session_playtime_notes": "Game length varies with player count and decision-making speed.",
+    "immersiveness_level": "Medium",
+    "immersiveness_level_notes": "Character progression and decision-making provide immersive elements.",
+    "learning_curve": "Medium",
+    "learning_curve_notes": "The game has many cards and mechanics that could be overwhelming to new players.",
+    "save_mechanism": "Campaign progress",
+    "save_mechanism_notes": "Character progress and decisions are carried over to future games.",
+    "how_to_win": "Complete the objectives for a given scenario.",
+    "how_to_lose": "Run out of time or have your character deck depleted.",
+    "type_of_play": "Cooperative",
+    "similar_games": [
+      "Lord of the Rings: The Card Game",
+      "Arkham Horror: The Card Game"
+    ],
+    "popularity": "Medium",
+    "expansions": [
+      "Pathfinder Adventure Card Game: Skull & Shackles",
+      "Pathfinder Adventure Card Game: Wrath of the Righteous"
+    ],
+    "possible_campaigns": 3,
+    "personality_types": {
+      "Strategist": {
+        "reasons": ["Tactical decision-making", "Character deck building"]
+      },
+      "Explorer": {
+        "reasons": ["Rich world and lore", "Progression and exploration"]
+      }
+    },
+    "similar_video_games": ["Baldur's Gate", "Divinity: Original Sin 2"]
+  },
+  {
+    "name": "Descent: Journeys in the Dark",
+    "genres": [
+      {
+        "genre": "Fantasy",
+        "percentage": "70%"
+      },
+      {
+        "genre": "Adventure",
+        "percentage": "30%"
+      }
+    ],
+    "cost": "$79.95",
+    "premise": "Heroes embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot.",
+    "description": "Descent: Journeys in the Dark is a semi-cooperative game where one player takes on the role of the treacherous overlord, and up to four other players take on the roles of courageous heroes.",
+    "players": {
+      "possible": "2-5",
+      "recommended": "4-5"
+    },
+    "total_playtime": "2-3 hours per session",
+    "number_of_sessions": "Depends on the campaign length.",
+    "session_playtime": "2-3 hours",
+    "session_playtime_notes": "Game length can vary with player count and decision-making speed.",
+    "immersiveness_level": "High",
+    "immersiveness_level_notes": "Highly thematic with strong narrative and character development.",
+    "learning_curve": "High",
+    "learning_curve_notes": "The game has many rules and can be complex for new players.",
+    "save_mechanism": "Campaign progress",
+    "save_mechanism_notes": "Character progress and decisions are carried over to future games.",
+    "how_to_win": "Complete the objectives for a given scenario.",
+    "how_to_lose": "The overlord completes their objectives first.",
+    "type_of_play": "Semi-Cooperative",
+    "similar_games": ["Mansions of Madness", "Star Wars: Imperial Assault"],
+    "popularity": "High",
+    "expansions": [
+      "Descent: Journeys in the Dark (Second Edition) – Lair of the Wyrm",
+      "Descent: Journeys in the Dark (Second Edition) – Labyrinth of Ruin"
+    ],
+    "possible_campaigns": 4,
+    "personality_types": {
+      "Strategist": {
+        "reasons": ["Tactical decision-making", "Character development"]
+      },
+      "Explorer": {
+        "reasons": ["Rich world and lore", "Progression and exploration"]
+      }
+    },
+    "similar_video_games": ["Dark Souls", "Dragon Age: Inquisition"]
+  },
+  {
+    "name": "Mansions of Madness (2nd Edition)",
+    "cost": "Approximately $90-100",
+    "description": "Players explore a locale filled with Lovecraftian horrors and must uncover its dark secrets. It's a fully cooperative game, each game is guided by an app which allows for the unique story-driven gameplay.",
+    "players": "1-5",
+    "total_playtime": "2-3 hours",
+    "sections": "Single session",
+    "number_of_sessions": "Varies, one per scenario",
+    "session_playtime": "2-3 hours",
+    "number_of_scenarios": "Varies, depends on expansions",
+    "average_scenario_time": "2-3 hours",
+    "immersiveness_level": "High",
+    "immersiveness_notes": "Fully cooperative game with an engaging Lovecraftian horror theme.",
+    "learning_curve": "Moderate",
+    "learning_curve_notes": "Game is guided by an app, which simplifies the learning process.",
+    "save_mechanism": "None, but progress can be recorded manually",
+    "save_mechanism_notes": "Game is scenario-based; each scenario is standalone",
+    "similar_games": ["Arkham Horror", "Eldritch Horror"],
+    "similar_video_games": ["Call of Cthulhu"],
+    "genre_adventure": "70%",
+    "genre_horror": "30%",
+    "genre_strategy": "50%",
+    "genre_roleplaying": "20%",
+    "genre_resource_management": "10%",
+    "genre_storytelling": "70%",
+    "number_of_games_sold": "Unavailable",
+    "popularity": "High"
+  },
+  {
+    "name": "Betrayal at House on the Hill",
+    "cost": "Approximately $30-50",
+    "description": "Players explore a haunted mansion of their own design, encountering spirits and frightening omens that foretell their fate. The game has fifty possible scenarios, providing a lot of replayability.",
+    "players": "3-6",
+    "total_playtime": "1-2 hours",
+    "sections": "Single session",
+    "number_of_sessions": "Varies, one per game",
+    "session_playtime": "1-2 hours",
+    "number_of_scenarios": "50",
+    "average_scenario_time": "1-2 hours",
+    "immersiveness_level": "High",
+    "immersiveness_notes": "The haunted mansion and random scenarios make each game unique and engaging.",
+    "learning_curve": "Easy to Moderate",
+    "learning_curve_notes": "Game starts simple and gets more complex once the haunt begins.",
+    "save_mechanism": "None",
+    "save_mechanism_notes": "Each game is standalone",
+    "similar_games": ["Betrayal Legacy", "Mysterium"],
+    "similar_video_games": ["Phasmophobia"],
+    "genre_adventure": "50%",
+    "genre_horror": "50%",
+    "genre_strategy": "40%",
+    "genre_roleplaying": "30%",
+    "genre_resource_management": "20%",
+    "genre_storytelling": "60%",
+    "number_of_games_sold": "Unavailable",
+    "popularity": "High"
+  },
+  {
+    "name": "Gloomhaven",
+    "cost": "Approximately $100-140",
+    "description": "A game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for travelling to this dark corner of the world.",
+    "players": "1-4",
+    "total_playtime": "60-120 minutes",
+    "sections": "Scenario-based",
+    "number_of_sessions": "95 scenarios in the base game",
+    "session_playtime": "60-120 minutes per scenario",
+    "number_of_scenarios": "95 in the base game",
+    "average_scenario_time": "60-120 minutes",
+    "immersiveness_level": "High",
+    "immersiveness_notes": "Detailed world with a rich narrative and character development.",
+    "learning_curve": "High",
+    "learning_curve_notes": "Complex game with a lot of rules, but very rewarding once mastered.",
+    "save_mechanism": "Game progress is recorded through a campaign, character sheets and a map of the game world",
+    "save_mechanism_notes": "Game is scenario-based; each scenario contributes to the overall campaign",
+    "similar_games": ["Frosthaven", "Jaws of the Lion"],
+    "similar_video_games": ["Divinity: Original Sin 2"],
+    "genre_adventure": "70%",
+    "genre_fantasy": "30%",
+    "genre_strategy": "70%",
+    "genre_roleplaying": "70%",
+    "genre_resource_management": "30%",
+    "genre_storytelling": "70%",
+    "number_of_games_sold": "Unavailable",
+    "popularity": "High"
+  },
+  {
+    "name": "Aftermath",
+    "cost": "Approximately $65-85",
+    "description": "An Adventure Book game in which players take on the role of small critters struggling to survive and thrive in a big, dangerous world.",
+    "players": "1-4",
+    "total_playtime": "1-2 hours per mission, 27 missions in total",
+    "possible_campaigns": "One main campaign, choices affect narrative",
+    "sections": "Mission-based",
+    "number_of_sessions": 27,
+    "number_of_sessions_notes": "The campaign consists of 27 missions",
+    "session_playtime": "60-120 minutes",
+    "immersiveness_level": "High",
+    "immersiveness_notes": "Story-driven experience with character progression",
+    "learning_curve": "Moderate",
+    "learning_curve_notes": "Some complexity due to variety of game mechanics",
+    "save_mechanism": "Game progress is recorded on mission progress sheets",
+    "save_mechanism_notes": "The campaign progress can be saved between missions",
+    "similar_games": ["Mice and Mystics", "Familiar Tales"],
+    "similar_video_games": ["MouseCraft"],
+    "genre_adventure": "70%",
+    "genre_fantasy": "40%",
+    "genre_strategy": "50%",
+    "genre_roleplaying": "60%",
+    "genre_resource_management": "40%",
+    "genre_storytelling": "70%",
+    "genre_open_world": "30%",
+    "number_of_games_sold": "Unavailable",
+    "popularity": "Moderate"
+  },
+  {
+    "name": "Stuffed Fables",
+    "cost": "Approximately $60-70",
+    "description": "An Adventure Book game that takes place in a world populated by stuffed animals who go on adventures.",
+    "players": "2-4",
+    "total_playtime": "1-2 hours per story, 7 stories in total",
+    "possible_campaigns": "One main campaign",
+    "sections": "Story-based",
+    "number_of_sessions": 7,
+    "number_of_sessions_notes": "The campaign consists of 7 stories",
+    "session_playtime": "60-120 minutes",
+    "immersiveness_level": "High",
+    "immersiveness_notes": "Engaging narrative and unique game components",
+    "learning_curve": "Easy",
+    "learning_curve_notes": "Easy for beginners to pick up, with clear instructions and engaging story",
+    "save_mechanism": "Game progress is recorded on story progress sheets",
+    "save_mechanism_notes": "The campaign progress can be saved between stories",
+    "similar_games": ["Mice and Mystics", "Familiar Tales"],
+    "similar_video_games": ["Little Big Planet"],
+    "genre_adventure": "70%",
+    "genre_fantasy": "50%",
+    "genre_strategy": "40%",
+    "genre_roleplaying": "60%",
+    "genre_resource_management": "30%",
+    "genre_storytelling": "80%",
+    "genre_open_world": "20%",
+    "number_of_games_sold": "Unavailable",
+    "popularity": "High"
+  },
+
+  {
+    "name": "Familiar Tales",
+    "cost": "Approximately $60-80",
+    "description": "Players take on the roles of animal companions protecting a newborn royal heir. The game is campaign-based and evolves based on the choices players make.",
+    "players": "2-4",
+    "total_playtime": "15-20 hours",
+    "possible_campaigns": "Multiple, choices made affect the narrative",
+    "sections": "Campaign-based",
+    "number_of_sessions": 21,
+    "number_of_sessions_notes": "The campaign consists of 21 sessions",
+    "session_playtime": "45-60 minutes",
+    "immersiveness_level": "High",
+    "immersiveness_notes": "A dynamic, story-driven experience with meaningful player choices",
+    "learning_curve": "Moderate",
+    "learning_curve_notes": "The gameplay is straightforward, but the strategic depth and evolving campaign add complexity",
+    "save_mechanism": "Game progress is recorded on campaign log sheets",
+    "save_mechanism_notes": "The campaign progress can be saved between sessions",
+    "similar_games": ["Mice and Mystics", "Aftermath"],
+    "similar_video_games": ["Ori and the Blind Forest"],
+    "genre_adventure": "60%",
+    "genre_fantasy": "50%",
+    "genre_strategy": "40%",
+    "genre_roleplaying": "50%",
+    "genre_resource_management": "30%",
+    "genre_storytelling": "70%",
+    "genre_open_world": "40%",
+    "number_of_games_sold": "Unavailable",
+    "popularity": "Moderate"
+  },
+  {
+    "name": "Mice and Mystics",
+    "cost": "Approximately $50-60",
+    "description": "Players take on the roles of those still loyal to the king - but to escape the clutches of Vanestra, they have been turned into mice!",
+    "players": "1-4",
+    "total_playtime": "11-16.5 hours",
+    "possible_campaigns": "One main campaign, multiple side quests",
+    "sections": "Scenario-based",
+    "number_of_sessions": 11,
+    "number_of_sessions_notes": "The campaign consists of 11 chapters",
+    "session_playtime": "60-90 minutes",
+    "immersiveness_level": "High",
+    "immersiveness_notes": "The game offers a rich narrative experience with engaging gameplay",
+    "learning_curve": "Easy",
+    "learning_curve_notes": "The game is relatively easy to pick up and play, even for beginners",
+    "save_mechanism": "Game progress is recorded on chapter progress sheets",
+    "save_mechanism_notes": "The campaign progress can be saved between chapters",
+    "similar_games": ["Stuffed Fables", "Familiar Tales"],
+    "similar_video_games": ["Redwall: The Warrior Reborn"],
+    "genre_adventure": "60%",
+    "genre_fantasy": "60%",
+    "genre_strategy": "40%",
+    "genre_roleplaying": "50%",
+    "genre_resource_management": "30%",
+    "genre_storytelling": "70%",
+    "genre_open_world": "20%",
+    "number_of_games_sold": "Unavailable",
+    "popularity": "High"
+  }
+]

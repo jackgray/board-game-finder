@@ -1,0 +1,59 @@
+{
+  "_key": "chess",
+  "_id": "Games/chess",
+  "collection": "Games",
+  "name": "Chess",
+  "theme": "Medieval warfare",
+  "genres": [
+    {
+      "genre": "Strategy",
+      "percentage": "100%"
+    }
+  ],
+  "cost": "$20",
+  "premise": "Two players command a medieval army in a strategic battle to capture the opponent's king.",
+  "description": "Chess is a two-player strategy board game played on a checkered board with 64 squares arranged in an 8×8 grid. Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns.",
+  "players": {
+    "possible": "2",
+    "recommended": "2"
+  },
+  "total_playtime": "Varies",
+  "number_of_sessions": "1",
+  "session_playtime": "Varies",
+  "session_playtime_notes": "Game duration can vary greatly depending on the players' level of skill.",
+  "mechanics": [
+    {
+      "name": "Grid Movement",
+      "percentage": "100%"
+    }
+  ],
+  "immersiveness_level": "Medium",
+  "immersiveness_level_notes": "While the game's theme is not very strong, the strategic depth can be highly engaging.",
+  "learning_curve": "High",
+  "learning_curve_notes": "The basic rules are easy to learn, but mastery requires significant study and practice.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "Games are usually played in one session.",
+  "how_to_win": "Checkmate the opponent's king.",
+  "how_to_lose": "Being checkmated by the opponent.",
+  "type_of_play": "Turn-based",
+  "similar_games": ["Checkers", "Go"],
+  "popularity": "Very High",
+  "expansions": [],
+  "possible_campaigns": 0,
+  "personality_types": {
+    "strategist": {
+      "reasons": [
+        "Chess is all about strategic planning and tactical execution."
+      ]
+    }
+  },
+  "similar_video_games": ["Battle Chess"],
+  "unique_selling_point": "Chess's deep strategic gameplay and worldwide popularity make it stand out.",
+  "category": "Abstract Strategy",
+  "min_age": "6",
+  "setup": {
+    "footprint": "Small",
+    "time": "1 minute",
+    "complexity": "Low"
+  }
+}

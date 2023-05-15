@@ -1,0 +1,86 @@
+{
+  "_key": "mtg1",
+  "collection": "Card Games",
+  "_id": "CardGames_mtg1",
+  "name": "Magic: The Gathering",
+  "theme": "Fantasy",
+  "genres": [
+    {
+      "genre": "Strategy",
+      "percentage": "70%"
+    },
+    {
+      "genre": "Fantasy",
+      "percentage": "30%"
+    }
+  ],
+  "cost": "$35",
+  "premise": "Two or more players are engaged in a battle as powerful wizards called 'Planeswalkers'.",
+  "description": "Magic: The Gathering (MTG) is a collectible and digital collectible card game created by mathematics professor Richard Garfield and published by Wizards of the Coast.",
+  "players": {
+    "possible": "2-6",
+    "recommended": "2"
+  },
+  "total_playtime": "30-45 minutes",
+  "total_playtime_notes": "Playtime varies greatly depending on the number of players and the complexity of the deck.",
+  "number_of_sessions": "N/A",
+  "session_playtime": "30-45 minutes",
+  "session_playtime_notes": "A single session typically lasts between 30 to 45 minutes.",
+  "mechanics": [
+    {
+      "name": "Card drafting",
+      "percentage": "100%"
+    }
+  ],
+  "immersiveness_level": "Medium",
+  "immersiveness_level_notes": "The fantasy theme and complex gameplay can be quite immersive for players.",
+  "learning_curve": "High",
+  "learning_curve_notes": "MTG has many rules and intricate strategies, which can be challenging for new players.",
+  "save_mechanism": "N/A",
+  "save_mechanism_notes": "Not applicable for this type of game.",
+  "how_to_win": "Reduce your opponent's life total to zero.",
+  "how_to_lose": "Your life total reaches zero.",
+  "type_of_play": "Competitive, turn-based",
+  "similar_games": ["Pokemon Trading Card Game", "Hearthstone"],
+  "popularity": "High",
+  "expansions": [
+    "War of the Spark",
+    "Throne of Eldraine",
+    "Theros Beyond Death"
+  ],
+  "possible_campaigns": 0,
+  "personality_types": {
+    "competitive": {
+      "reasons": [
+        "The game involves strategic thinking and planning.",
+        "There is a competitive player community."
+      ]
+    },
+    "strategist": {
+      "reasons": [
+        "The game has deep strategic elements.",
+        "There is a lot of variety in gameplay."
+      ]
+    }
+  },
+  "setup": {
+    "footprint": "Small",
+    "footprint_notes": "Requires only enough space to lay out cards.",
+    "time": "5 minutes",
+    "time_notes": "Includes shuffling and drawing initial hand.",
+    "complexity": "Low",
+    "complexity_notes": "Setup is relatively simple, but gameplay can be complex."
+  },
+  "rule_complexity": "High",
+  "rule_complexity_notes": "MTG has a complex rulebook and many card-specific rules.",
+  "mastery_curve": "High",
+  "mastery_curve_notes": "Becoming proficient requires understanding of the game's extensive card library and strategies.",
+  "additional_notes": "Magic: The Gathering is notable for its deep strategic gameplay and dedicated player base.",
+  "similar_video_games": [
+    "Magic: The Gathering Arena",
+    "Magic: The Gathering Online"
+  ],
+  "unique_selling_point": "Deep strategic gameplay with a vast library of unique cards.",
+  "category": "Collectible Card Game",
+  "min_age": 13
+}

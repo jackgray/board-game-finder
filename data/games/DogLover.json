@@ -1,0 +1,44 @@
+{
+    "name": "Dog Lover",
+    "theme": "Dog Care and Training",
+    "genres": [
+      {
+        "genre": "Card Game",
+        "percentage": "100%"
+      }
+    ],
+    "cost": "$20",
+    "premise": "You are a dog lover, trying to care for and train your dogs to be the best they can be.",
+    "description": "In Dog Lover, you will rescue dogs, care for them, and train them in a variety of skills. The player who cares for their dogs the best wins!",
+    "players": {
+      "possible": "2-4",
+      "recommended": "3-4"
+    },
+    "total_playtime": "30 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "30 minutes",
+    "session_playtime_notes": "Each game takes about 30 minutes to play.",
+    "immersiveness_level": "Moderate",
+    "immersiveness_level_notes": "Players will feel connected to their dogs, but the game does not have a strong narrative component.",
+    "learning_curve": "Easy",
+    "learning_curve_notes": "Most players should be able to learn the game in a few minutes.",
+    "save_mechanism": "Not Applicable",
+    "save_mechanism_notes": "The game is played in single sessions with no need for a save mechanism.",
+    "how_to_win": "The player who cares for their dogs the best, as measured by the game's scoring system, wins.",
+    "how_to_lose": "If another player cares for their dogs better than you, they win and you lose.",
+    "type_of_play": "Turn-Based",
+    "similar_games": ["Cat Lady", "Wingspan"],
+    "popularity": "Moderate",
+    "expansions": [],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Dog Lovers": {
+        "reasons": ["Players who love dogs will enjoy the theme of this game."]
+      },
+      "Strategists": {
+        "reasons": ["The game offers strategic decisions about how to care for and train your dogs."]
+      }
+    },
+    "similar_video_games": []
+  }
+  

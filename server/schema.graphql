@@ -1,0 +1,24 @@
+const { buildSchema } = require('graphql');
+
+const schema = buildSchema(`
+  type Game {
+    _key: String
+    collection: String
+    _id: String
+    name: String
+    theme: String
+    category: String
+    genres: [Genre]
+  }
+
+  type Genre {
+    genre: String
+    percentage: String
+  }
+
+
+  type Query {
+    getGame(_key: String): Game
+    getAllGames: [Game]
+  }
+`);

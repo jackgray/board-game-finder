@@ -1,0 +1,71 @@
+{
+  "_key": "cascadia",
+  "collection": "Games",
+  "_id": "Games/cascadia",
+  "name": "Cascadia",
+  "theme": "Pacific Northwest Wildlife",
+  "genres": [
+    {
+      "genre": "Family Games",
+      "percentage": "50"
+    },
+    {
+      "genre": "Strategy Games",
+      "percentage": "50"
+    }
+  ],
+  "cost": "$40",
+  "premise": "A peaceful and engaging game featuring the habitats and wildlife of the Pacific Northwest.",
+  "description": "Cascadia is a nature-themed game where players use a unique card drafting and tile placement system to build out their own landscape, featuring stunning artwork of the Pacific Northwest.",
+  "players": {
+    "possible": "1-4",
+    "recommended": "2-4"
+  },
+  "total_playtime": "45 minutes",
+  "number_of_sessions": "1",
+  "session_playtime": "45 minutes",
+  "session_playtime_notes": "Playtime can vary depending on the number of players and their familiarity with the game.",
+  "mechanics": [
+    {
+      "name": "Card Drafting",
+      "percentage": "40"
+    },
+    {
+      "name": "Tile Placement",
+      "percentage": "40"
+    },
+    {
+      "name": "Set Collection",
+      "percentage": "20"
+    }
+  ],
+  "immersiveness_level": "Medium",
+  "immersiveness_level_notes": "The game's artwork and mechanics work together to immerse players in the theme of Pacific Northwest wildlife.",
+  "learning_curve": "Easy",
+  "learning_curve_notes": "The rules are straightforward and easy to learn, making it accessible for both new and experienced players.",
+  "save_mechanism": "Not applicable",
+  "save_mechanism_notes": "The game is intended to be played in one session.",
+  "how_to_win": "The player with the most points at the end of the game wins.",
+  "how_to_lose": "Players who do not maximize their points through efficient card drafting and tile placement are likely to score fewer points.",
+  "type_of_play": "Turn-based",
+  "similar_games": ["Calico", "Wingspan"],
+  "popularity": "High",
+  "expansions": [],
+  "possible_campaigns": 0,
+  "personality_types": {
+    "Strategist": {
+      "reasons": [
+        "The game requires strategic card drafting and tile placement.",
+        "There is an element of long-term planning in creating habitats and matching wildlife."
+      ]
+    },
+    "Nature lover": {
+      "reasons": [
+        "The game's theme and artwork are focused on the wildlife and habitats of the Pacific Northwest."
+      ]
+    }
+  },
+  "similar_video_games": [],
+  "unique_selling_point": "Unique card drafting and tile placement system",
+  "category": "Family Games"
+}

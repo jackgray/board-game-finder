@@ -1,0 +1,85 @@
+{
+  "_key": "frosthaven",
+  "collection": "Games",
+  "_id": "Games/frosthaven",
+  "name": "Frosthaven",
+  "theme": "Frosthaven is the story of a small outpost far to the north of the capital city of White Oak, an outpost barely surviving the harsh weather as well as invasions from forces both known and unknown.",
+  "genres": [
+    {
+      "genre": "Strategy",
+      "percentage": "100%"
+    }
+  ],
+  "cost": "Unknown",
+  "premise": "A group of mercenaries at the end of their rope will help bring back this settlement from the edge of destruction.",
+  "description": "Frosthaven is a standalone adventure from the designer and publisher of Gloomhaven that features sixteen new characters, three new races, more than twenty new enemies, more than one hundred new items, and a new, 100-scenario campaign. Characters and items from Gloomhaven will be usable in Frosthaven, and vice versa. In addition to having the well-known combat mechanisms of Gloomhaven, Frosthaven will feature much more to do outside of combat, such as numerous mysteries to solve, a seasonal event system to live through, and player control over how this ramshackle village expands, with each new building offering new ways to progress.",
+  "players": {
+    "possible": "1-4",
+    "recommended": "Unknown"
+  },
+  "total_playtime": "50-200 hours",
+  "total_playtime_notes": "This is based on the game's 100 scenarios, with each scenario estimated to take between 30-120 minutes. Actual total playtime may vary greatly depending on the pace and decisions of the players.",
+  "number_of_sessions": "100 (Scenarios)",
+  "session_playtime": "30-120 minutes",
+  "session_playtime_notes": "Playtime can vary greatly depending on the scenario and players' decisions.",
+  "mechanics": [
+    {
+      "name": "Strategy",
+      "description": "Frosthaven is a strategic game, where players must make decisions that will affect the outcome of their game over the course of multiple turns and scenarios."
+    },
+    {
+      "name": "Campaign / Battle Card Driven",
+      "description": "The game is driven by a campaign with scenarios that are impacted by the use of cards in battle. Players' decisions and card play in one scenario can have lasting effects."
+    },
+    {
+      "name": "Communication Limits",
+      "description": "The game imposes limits on communication between players, adding an extra layer of challenge."
+    },
+    {
+      "name": "Cooperative Game",
+      "description": "Frosthaven is a cooperative game where players work together to succeed in their shared goals."
+    },
+    {
+      "name": "Deck Construction",
+      "description": "Players have the ability to construct their own decks, allowing for customization and strategy in game play."
+    },
+    {
+      "name": "Deck, Bag, and Pool Building",
+      "description": "The game includes mechanics where players build or improve a deck, bag, or pool of options over the course of the game."
+    }
+],
+
+  "immersiveness_level": "High",
+  "immersiveness_level_notes": "The game offers a rich and immersive experience through its narrative campaign and the player's ability to shape the development of the outpost.",
+  "learning_curve": "4.28 / 5",
+  "learning_curve_notes": "The game is complex and might be challenging for new players.",
+  "save_mechanism": "Campaign Progress",
+  "save_mechanism_notes": "The game's progress is saved through its campaign structure.",
+  "how_to_win": "Unknown",
+  "how_to_lose": "Unknown",
+  "type_of_play": "Turn-based",
+  "similar_games": ["Gloomhaven"],
+  "popularity": "High",
+  "expansions": ["Gloomhaven", "Gloomhaven: Jaws of the Lion"],
+  "possible_campaigns": 1,
+  "personality_types": {
+    "strategist": {
+      "reasons": [
+        "Frosthaven is a strategic game that requires careful planning and decision making."
+      ]
+    }
+  },
+  "setup": {
+    "footprint": "4.0",
+    "footprint_notes": "The game requires a substantial amount of table space for the game board, player boards, and cards.",
+    "time": "4.0",
+    "time_notes": "Setting up the game, especially for the first time, may take a considerable amount of time due to the number of components and game rules.",
+    "complexity": "4.0",
+    "complexity_notes": "Setting up the game involves preparing the game board, player boards, cards, and understanding the game rules."
+  },
+  "rule_complexity": "4.5",
+  "rule_complexity_notes": "The game has a high complexity rating due to its variety of mechanisms and deep strategic elements.",
+  "mastery_curve": "4.8",
+  "mastery_curve_notes": "Mastering the game requires a deep understanding of its mechanisms, strategic planning, and the ability to adapt to various scenarios and challenges.",
+  "additional_notes": "Frosthaven offers a robust crafting system and a dynamic village expansion system, providing players with numerous ways to progress and develop their outpost. It integrates with Gloomhaven, allowing characters and items to be used interchangeably between the games."
+}

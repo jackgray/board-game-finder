@@ -1,0 +1,67 @@
+[
+    
+      {
+        "_key": "strategist",
+        "_id": "PersonalityTypes/strategist",
+        "name": "Strategist",
+        "description": "A player who enjoys complex strategic planning, decision-making, and the thrill of outsmarting opponents.",
+        "found_in": []
+      },
+      {
+        "_key": "socializer",
+        "_id": "PersonalityTypes/socializer",
+        "name": "Socializer",
+        "description": "A player who enjoys interaction with other players, often preferring cooperative or team-based games.",
+        "found_in": []
+      },
+      {
+        "_key": "achiever",
+        "_id": "PersonalityTypes/achiever",
+        "name": "Achiever",
+        "description": "A player who enjoys setting and reaching goals, often those set by the game, but also those set by themselves.",
+        "found_in": []
+      },
+      {
+        "_key": "explorer",
+        "_id": "PersonalityTypes/explorer",
+        "name": "Explorer",
+        "description": "A player who enjoys exploring the game world and its mechanics, often preferring games with rich settings and deep mechanics.",
+        "found_in": []
+      },
+      {
+        "_key": "adventurer",
+        "_id": "PersonalityTypes/adventurer",
+        "name": "Adventurer",
+        "description": "A player who enjoys games that offer a sense of adventure or discovery, often with an emphasis on exploration and storytelling.",
+        "found_in": []
+      },
+      {
+        "_key": "solver",
+        "_id": "PersonalityTypes/solver",
+        "name": "Solver",
+        "description": "A player who enjoys games that challenge their problem-solving skills, whether it's solving a puzzle or figuring out a complex game mechanic.",
+        "found_in": []
+      },
+      {
+        "_key": "risk_taker",
+        "_id": "PersonalityTypes/risk_taker",
+        "name": "Risk-Taker",
+        "description": "A player who enjoys games that involve a high degree of risk and reward, where outcomes often hinge on a single decision.",
+        "found_in": []
+      },
+      {
+        "_key": "cooperator",
+        "_id": "PersonalityTypes/cooperator",
+        "name": "Cooperator",
+        "description": "A player who enjoys games that involve working together as a team to achieve a common goal.",
+        "found_in": []
+      },
+      {
+        "_key": "narrativist",
+        "_id": "PersonalityTypes/narrativist",
+        "name": "Narrativist",
+        "description": "A player who enjoys games with a strong narrative or story element.",
+        "found_in": []
+      }
+    
+    ]

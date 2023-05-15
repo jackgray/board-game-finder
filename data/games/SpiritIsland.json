@@ -1,0 +1,48 @@
+{
+    "name": "Spirit Island",
+    "theme": "Mythical Nature Spirits Defense",
+    "genres": [
+      {
+        "genre": "Cooperative",
+        "percentage": "100%"
+      },
+      {
+        "genre": "Strategy",
+        "percentage": "100%"
+      }
+    ],
+    "cost": "$60",
+    "premise": "Spirit Island is a complex and thematic cooperative board game about defending your island home from colonizing Invaders.",
+    "description": "Players are different spirits of the land, each with its own unique elemental powers. Every turn, players simultaneously choose which of their power cards to play, paying energy to do so. Using combinations of power cards that match a spirit's elemental affinities can grant free bonus effects.",
+    "players": {
+      "possible": "1-4",
+      "recommended": "2-4"
+    },
+    "total_playtime": "90-120 minutes",
+    "number_of_sessions": "1",
+    "session_playtime": "90-120 minutes",
+    "session_playtime_notes": "Each game takes about 90-120 minutes to play.",
+    "immersiveness_level": "High",
+    "immersiveness_level_notes": "The game is deeply immersive with players embodying spirits of the land.",
+    "learning_curve": "Moderate",
+    "learning_curve_notes": "The game is complex and can take a few playthroughs to fully understand.",
+    "save_mechanism": "Not Applicable",
+    "save_mechanism_notes": "The game is played in single sessions with no need for a save mechanism.",
+    "how_to_win": "Players win by completely destroying every last settlement and city on the board - or by scaring the invaders into fleeing.",
+    "how_to_lose": "Players lose if any spirit is ever fully destroyed, if the island is overrun by blight, or if the Invader deck runs out before achieving victory.",
+    "type_of_play": "Turn-Based",
+    "similar_games": ["Pandemic", "Gloomhaven"],
+    "popularity": "High",
+    "expansions": ["Branch & Claw", "Jagged Earth"],
+    "possible_campaigns": 0,
+    "personality_types": {
+      "Strategists": {
+        "reasons": ["The game offers deep strategic decision making."]
+      },
+      "Cooperative Players": {
+        "reasons": ["Players must work together to achieve victory."]
+      }
+    },
+    "similar_video_games": []
+  }
+  
